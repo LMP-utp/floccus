@@ -3,9 +3,6 @@
 <xbel version="1.0">
 <!--- highestId :5072: for Floccus bookmark sync browser extension -->
 
-<bookmark href="https://floccus.org/guides" id="1">
-  <title>Guides and How tos - Floccus bookmarks sync</title>
-</bookmark>
 <folder id="2">
   <title>ST y FT y VD</title>
   <bookmark href="https://www.speedtest.net/" id="7">
@@ -6070,6 +6067,9 @@
   </bookmark>
   <bookmark href="https://www.cranstonlibrary.org/databases/" id="58">
     <title>Databases</title>
+  </bookmark>
+  <bookmark href="https://floccus.org/guides" id="1">
+    <title>Guides and How tos - Floccus bookmarks sync</title>
   </bookmark>
 </folder>
 <folder id="1841">
