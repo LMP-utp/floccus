@@ -6074,6 +6074,9 @@
   <bookmark href="https://floccus.org/guides" id="1">
     <title>Guides and How tos - Floccus bookmarks sync</title>
   </bookmark>
+  <bookmark href="https://github.com/floccusaddon/floccus/discussions/1655" id="5074">
+    <title>How to host your bookmarks on Github? error 401 · floccusaddon/floccus · Discussion #1655</title>
+  </bookmark>
 </folder>
 <folder id="1841">
   <title>Progr</title>
@@ -7343,9 +7346,6 @@
             <title>Los medios de comunicación y el proceso de aprendizaje</title>
           </bookmark>
         </folder>
-        <bookmark href="https://github.com/floccusaddon/floccus/discussions/1655" id="5074">
-          <title>How to host your bookmarks on Github? error 401 · floccusaddon/floccus · Discussion #1655</title>
-        </bookmark>
       </folder>
       <folder id="2326">
         <title>INGLES2</title>
