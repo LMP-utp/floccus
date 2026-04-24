@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :5076: for Floccus bookmark sync browser extension -->
+<!--- highestId :5077: for Floccus bookmark sync browser extension -->
 
 <folder id="2">
   <title>ST y FT y VD</title>
@@ -6613,6 +6613,9 @@
   </bookmark>
   <folder id="5076">
     <title>BlockChain</title>
+    <bookmark href="https://www.youtube.com/watch?v=RB8QK1I9eRA" id="5077">
+      <title>ROADMAP para convertirte en PROGRAMADOR BLOCKCHAIN en 2026 - YouTube</title>
+    </bookmark>
   </folder>
 </folder>
 <folder id="2201">
