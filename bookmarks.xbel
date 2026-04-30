@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :5077: for Floccus bookmark sync browser extension -->
+<!--- highestId :5078: for Floccus bookmark sync browser extension -->
 
 <folder id="2">
   <title>ST y FT y VD</title>
@@ -6616,6 +6616,9 @@
   </bookmark>
   <bookmark href="https://learnvim.irian.to/basics/starting_vim" id="2092">
     <title>Starting Vim | Learn Vim</title>
+  </bookmark>
+  <bookmark href="https://www.plantuml.com/plantuml/uml/SyfFKj2rKt3CoKnELR1Io4ZDoSa70000" id="5078">
+    <title>PlantUML Web Server</title>
   </bookmark>
 </folder>
 <folder id="2201">
