@@ -6407,6 +6407,18 @@
       <title>Palettes :: COLOURlovers</title>
     </bookmark>
   </folder>
+  <folder id="2020">
+    <title>Bootstrap</title>
+    <bookmark href="https://www.youtube.com/playlist?list=PLj0z0WBaTiH7jOjO7C0w2lSeuuisoiSR9" id="2170">
+      <title>Bootstrap 5 Full Course for Beginners | Build Responsive Navbar, Login Page &amp; Portfolio Website - YouTube</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=h5apE3E72wY&amp;list=PLj0z0WBaTiH7jOjO7C0w2lSeuuisoiSR9&amp;index=1" id="2171">
+      <title>Bootstrap 5 | How to create a Responsive Navbar | Step by Step Tutorial - YouTube</title>
+    </bookmark>
+    <bookmark href="https://www.canva.com/design/DAG9yOUo6iE/UZXbtzZ8mZ2Gfo6a6UTEHg/edit" id="2172">
+      <title>Herramientas de Prototipado - Presentación</title>
+    </bookmark>
+  </folder>
   <folder id="5076">
     <title>BlockChain</title>
     <bookmark href="https://www.youtube.com/watch?v=RB8QK1I9eRA" id="5077">
@@ -6584,17 +6596,8 @@
   <bookmark href="https://www.youtube.com/watch?v=rqOaZf4xMlI" id="2019">
     <title>7 Patrones de Diseño que todo Programador Debería Conocer - YouTube</title>
   </bookmark>
-  <folder id="2020">
-    <title>Bootstrap</title>
-    <bookmark href="https://www.youtube.com/playlist?list=PLj0z0WBaTiH7jOjO7C0w2lSeuuisoiSR9" id="2170">
-      <title>Bootstrap 5 Full Course for Beginners | Build Responsive Navbar, Login Page &amp; Portfolio Website - YouTube</title>
-    </bookmark>
-    <bookmark href="https://www.youtube.com/watch?v=h5apE3E72wY&amp;list=PLj0z0WBaTiH7jOjO7C0w2lSeuuisoiSR9&amp;index=1" id="2171">
-      <title>Bootstrap 5 | How to create a Responsive Navbar | Step by Step Tutorial - YouTube</title>
-    </bookmark>
-    <bookmark href="https://www.canva.com/design/DAG9yOUo6iE/UZXbtzZ8mZ2Gfo6a6UTEHg/edit" id="2172">
-      <title>Herramientas de Prototipado - Presentación</title>
-    </bookmark>
+  <folder id="5079">
+    <title>Angular</title>
   </folder>
   <bookmark href="https://www.youtube.com/watch?v=uC-fg6B9xQA&amp;list=PLYni6rj0uP4uVrSauvuDfBneYmT9h7vop&amp;index=1" id="2086">
     <title>5 ventajas de usar BRUNO, el API client SUSTITUTO DE POSTMAN que marca tendencia en 2025 - YouTube</title>
@@ -6620,9 +6623,6 @@
   <bookmark href="https://www.plantuml.com/plantuml/uml/SyfFKj2rKt3CoKnELR1Io4ZDoSa70000" id="5078">
     <title>PlantUML Web Server</title>
   </bookmark>
-  <folder id="5079">
-    <title>Angular</title>
-  </folder>
 </folder>
 <folder id="2201">
   <title>UTP</title>
