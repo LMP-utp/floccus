@@ -6407,17 +6407,53 @@
       <title>Palettes :: COLOURlovers</title>
     </bookmark>
   </folder>
+  <folder id="2018">
+    <title>WEB - Frontend</title>
+    <folder id="2169">
+      <title>Bootstrap</title>
+      <bookmark href="https://www.youtube.com/watch?v=QCw0L6FupQ0" id="2192">
+        <title>Aprende Bootstrap 5 - Curso de Bootstrap desde Cero - YouTube</title>
+      </bookmark>
+      <bookmark href="https://www.youtube.com/watch?v=G7iKEGEDw4Y" id="2193">
+        <title>Construye 5 proyectos personalizados en BOOTSTRAP 5 (HTML / CSS / JS) | Curso completo 1:30 horas - YouTube</title>
+      </bookmark>
+      <bookmark href="https://www.youtube.com/playlist?list=PLZ2ovOgdI-kUmz8-r2DNigQ_qwpk1s5q4" id="2194">
+        <title>Curso Bootstrap 5 desde cero - YouTube</title>
+      </bookmark>
+      <bookmark href="https://github.com/rarean/portfolio-demo?tab=readme-ov-file" id="2195">
+        <title>GitHub - rarean/portfolio-demo</title>
+      </bookmark>
+      <bookmark href="https://dev.to/rarean/bootstrap-portfolio-w-github-actions-1gbf" id="2196">
+        <title>Bootstrap Portfolio w/GitHub Actions - DEV Community</title>
+      </bookmark>
+      <bookmark href="https://getbootstrap.com/" id="2197">
+        <title>Bootstrap · The most popular HTML, CSS, and JS library in the world.</title>
+      </bookmark>
+      <bookmark href="https://quieroserweb.dev/blog/emmet-conceptos-basicos?roadmap=dominando-herramientas-emmet" id="2198">
+        <title>Conceptos básicos de Emmet</title>
+      </bookmark>
+      <bookmark href="https://getbootstrap.com/docs/5.3/examples/" id="2199">
+        <title>Examples · Bootstrap v5.3</title>
+      </bookmark>
+      <bookmark href="https://floccus.org/" id="2200">
+        <title>Cross-browser bookmarks syncing - Floccus bookmarks sync</title>
+      </bookmark>
+      <bookmark href="https://www.youtube.com/playlist?list=PLj0z0WBaTiH7jOjO7C0w2lSeuuisoiSR9" id="2170">
+        <title>Bootstrap 5 Full Course for Beginners | Build Responsive Navbar, Login Page &amp; Portfolio Website - YouTube</title>
+      </bookmark>
+    </folder>
+  </folder>
   <folder id="2020">
     <title>Bootstrap</title>
-    <bookmark href="https://www.youtube.com/playlist?list=PLj0z0WBaTiH7jOjO7C0w2lSeuuisoiSR9" id="2170">
-      <title>Bootstrap 5 Full Course for Beginners | Build Responsive Navbar, Login Page &amp; Portfolio Website - YouTube</title>
-    </bookmark>
     <bookmark href="https://www.youtube.com/watch?v=h5apE3E72wY&amp;list=PLj0z0WBaTiH7jOjO7C0w2lSeuuisoiSR9&amp;index=1" id="2171">
       <title>Bootstrap 5 | How to create a Responsive Navbar | Step by Step Tutorial - YouTube</title>
     </bookmark>
     <bookmark href="https://www.canva.com/design/DAG9yOUo6iE/UZXbtzZ8mZ2Gfo6a6UTEHg/edit" id="2172">
       <title>Herramientas de Prototipado - Presentación</title>
     </bookmark>
+  </folder>
+  <folder id="5079">
+    <title>Angular</title>
   </folder>
   <folder id="5076">
     <title>BlockChain</title>
@@ -6560,45 +6596,9 @@
   <bookmark href="https://www.youtube.com/shorts/OJvGed_Nwe4" id="2017">
     <title>500 PROYECTOS para PRACTICAR programación - YouTube</title>
   </bookmark>
-  <folder id="2018">
-    <title>WEB - Frontend</title>
-    <folder id="2169">
-      <title>Bootstrap</title>
-      <bookmark href="https://www.youtube.com/watch?v=QCw0L6FupQ0" id="2192">
-        <title>Aprende Bootstrap 5 - Curso de Bootstrap desde Cero - YouTube</title>
-      </bookmark>
-      <bookmark href="https://www.youtube.com/watch?v=G7iKEGEDw4Y" id="2193">
-        <title>Construye 5 proyectos personalizados en BOOTSTRAP 5 (HTML / CSS / JS) | Curso completo 1:30 horas - YouTube</title>
-      </bookmark>
-      <bookmark href="https://www.youtube.com/playlist?list=PLZ2ovOgdI-kUmz8-r2DNigQ_qwpk1s5q4" id="2194">
-        <title>Curso Bootstrap 5 desde cero - YouTube</title>
-      </bookmark>
-      <bookmark href="https://github.com/rarean/portfolio-demo?tab=readme-ov-file" id="2195">
-        <title>GitHub - rarean/portfolio-demo</title>
-      </bookmark>
-      <bookmark href="https://dev.to/rarean/bootstrap-portfolio-w-github-actions-1gbf" id="2196">
-        <title>Bootstrap Portfolio w/GitHub Actions - DEV Community</title>
-      </bookmark>
-      <bookmark href="https://getbootstrap.com/" id="2197">
-        <title>Bootstrap · The most popular HTML, CSS, and JS library in the world.</title>
-      </bookmark>
-      <bookmark href="https://quieroserweb.dev/blog/emmet-conceptos-basicos?roadmap=dominando-herramientas-emmet" id="2198">
-        <title>Conceptos básicos de Emmet</title>
-      </bookmark>
-      <bookmark href="https://getbootstrap.com/docs/5.3/examples/" id="2199">
-        <title>Examples · Bootstrap v5.3</title>
-      </bookmark>
-      <bookmark href="https://floccus.org/" id="2200">
-        <title>Cross-browser bookmarks syncing - Floccus bookmarks sync</title>
-      </bookmark>
-    </folder>
-  </folder>
   <bookmark href="https://www.youtube.com/watch?v=rqOaZf4xMlI" id="2019">
     <title>7 Patrones de Diseño que todo Programador Debería Conocer - YouTube</title>
   </bookmark>
-  <folder id="5079">
-    <title>Angular</title>
-  </folder>
   <bookmark href="https://www.youtube.com/watch?v=uC-fg6B9xQA&amp;list=PLYni6rj0uP4uVrSauvuDfBneYmT9h7vop&amp;index=1" id="2086">
     <title>5 ventajas de usar BRUNO, el API client SUSTITUTO DE POSTMAN que marca tendencia en 2025 - YouTube</title>
   </bookmark>
