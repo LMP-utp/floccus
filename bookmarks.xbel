@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :5078: for Floccus bookmark sync browser extension -->
+<!--- highestId :5079: for Floccus bookmark sync browser extension -->
 
 <folder id="2">
   <title>ST y FT y VD</title>
@@ -6620,6 +6620,9 @@
   <bookmark href="https://www.plantuml.com/plantuml/uml/SyfFKj2rKt3CoKnELR1Io4ZDoSa70000" id="5078">
     <title>PlantUML Web Server</title>
   </bookmark>
+  <folder id="5079">
+    <title>Angular</title>
+  </folder>
 </folder>
 <folder id="2201">
   <title>UTP</title>
