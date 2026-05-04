@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :5085: for Floccus bookmark sync browser extension -->
+<!--- highestId :5086: for Floccus bookmark sync browser extension -->
 
 <folder id="2">
   <title>ST y FT y VD</title>
@@ -6173,6 +6173,9 @@
       </bookmark>
       <bookmark href="https://www.youtube.com/watch?v=jkdLRbrJj9M" id="2191">
         <title>Angular. ¿Cómo crear el Login?. components + routing + forms + services + observables + http. - 10:30</title>
+      </bookmark>
+      <bookmark href="https://docs.spring.io/spring-data/jpa/reference/jpa.html" id="5086">
+        <title>JPA :: Spring Data JPA</title>
       </bookmark>
     </folder>
     <bookmark href="https://www.youtube.com/watch?v=1dbCGGz48w0&amp;list=PL3Acx4r6rKWOrx19qPNGnKBcogB3DuniB&amp;index=26" id="2095">
