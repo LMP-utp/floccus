@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :5089: for Floccus bookmark sync browser extension -->
+<!--- highestId :5090: for Floccus bookmark sync browser extension -->
 
 <folder id="2">
   <title>ST y FT y VD</title>
@@ -3194,6 +3194,9 @@
 </folder>
 <folder id="5">
   <title>Juegos</title>
+  <folder id="5090">
+    <title>Stardew Valley</title>
+  </folder>
   <folder id="37">
     <title>Trials of Mana</title>
     <bookmark href="https://www.neoseeker.com/trials-of-mana-2020/walkthrough/Li&apos;l_Cactus" id="212">
