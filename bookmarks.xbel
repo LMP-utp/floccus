@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :5090: for Floccus bookmark sync browser extension -->
+<!--- highestId :5091: for Floccus bookmark sync browser extension -->
 
 <folder id="2">
   <title>ST y FT y VD</title>
@@ -3196,6 +3196,9 @@
   <title>Juegos</title>
   <folder id="5090">
     <title>Stardew Valley</title>
+    <bookmark href="https://es.stardewvalleywiki.com/Stardew_Valley_Wiki" id="5091">
+      <title>Stardew Valley Wiki - Español</title>
+    </bookmark>
   </folder>
   <folder id="37">
     <title>Trials of Mana</title>
