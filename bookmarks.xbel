@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :5092: for Floccus bookmark sync browser extension -->
+<!--- highestId :5093: for Floccus bookmark sync browser extension -->
 
 <folder id="2">
   <title>ST y FT y VD</title>
@@ -3201,6 +3201,9 @@
     </bookmark>
     <bookmark href="https://es.stardewvalleywiki.com/Leah" id="5092">
       <title>Leah - Stardew Valley Wiki - Español</title>
+    </bookmark>
+    <bookmark href="https://es.stardewvalleywiki.com/Lotes#River_Fish_Bundle" id="5093">
+      <title>Lotes - Stardew Valley Wiki</title>
     </bookmark>
   </folder>
   <folder id="37">
