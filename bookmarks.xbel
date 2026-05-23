@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :5093: for Floccus bookmark sync browser extension -->
+<!--- highestId :5094: for Floccus bookmark sync browser extension -->
 
 <folder id="2">
   <title>ST y FT y VD</title>
@@ -6690,6 +6690,9 @@
     </bookmark>
     <bookmark href="https://devjvm.com/classes/environmental-studies-earth-sciences-2/" id="5085">
       <title>Del contrato inteligente al backend en Java: Integración de Blockchain con Spring Boot</title>
+    </bookmark>
+    <bookmark href="https://www.hhs.gov/hipaa/for-professionals/security/laws-regulations/index.html" id="5094">
+      <title>Summary of the HIPAA Security Rule | HHS.gov</title>
     </bookmark>
   </folder>
   <folder id="2210">
