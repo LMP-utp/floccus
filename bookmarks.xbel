@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :5098: for Floccus bookmark sync browser extension -->
+<!--- highestId :5099: for Floccus bookmark sync browser extension -->
 
 <folder id="2">
   <title>ST y FT y VD</title>
@@ -5094,6 +5094,9 @@
     </bookmark>
     <bookmark href="https://wiki-es.guildwars2.com/wiki/Plato_de_mejillones_Filorrechina" id="877">
       <title>Plato de mejillones Filorrechina - Guild Wars 2 Wiki</title>
+    </bookmark>
+    <bookmark href="https://help.guildwars2.com/hc/en-us/articles/17313149660691-Connectivity-and-Lag-Troubleshooting" id="5099">
+      <title>Connectivity and Lag Troubleshooting – Guild Wars 2 Support</title>
     </bookmark>
   </folder>
   <folder id="44">
