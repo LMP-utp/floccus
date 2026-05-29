@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :5107: for Floccus bookmark sync browser extension -->
+<!--- highestId :5108: for Floccus bookmark sync browser extension -->
 
 <folder id="2">
   <title>ST y FT y VD</title>
@@ -6732,6 +6732,9 @@
     </bookmark>
     <bookmark href="https://www.tutorialspoint.com/solidity/solidity_quick_guide.htm" id="5107">
       <title>Solidity - Quick Guide</title>
+    </bookmark>
+    <bookmark href="https://www.neoguias.com/tutorial-wallet-multifirma-solidity/" id="5108">
+      <title>Cómo crear una Wallet Multifirma con Solidity y React | Neoguias</title>
     </bookmark>
   </folder>
   <folder id="2210">
