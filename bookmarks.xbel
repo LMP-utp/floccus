@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :5105: for Floccus bookmark sync browser extension -->
+<!--- highestId :5106: for Floccus bookmark sync browser extension -->
 
 <folder id="2">
   <title>ST y FT y VD</title>
@@ -6726,6 +6726,9 @@
     </bookmark>
     <bookmark href="https://www.tutorialspoint.com/solidity/index.htm" id="5105">
       <title>Solidity Tutorial</title>
+    </bookmark>
+    <bookmark href="https://www.dappuniversity.com/articles/solidity-tutorial" id="5106">
+      <title>Solidity for Beginners · Smart Contract Development Crash Course | Dapp University</title>
     </bookmark>
   </folder>
   <folder id="2210">
