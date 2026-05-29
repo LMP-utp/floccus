@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :5104: for Floccus bookmark sync browser extension -->
+<!--- highestId :5105: for Floccus bookmark sync browser extension -->
 
 <folder id="2">
   <title>ST y FT y VD</title>
@@ -6723,6 +6723,9 @@
     <title>ITD</title>
     <bookmark href="https://www.ehrinpractice.com/ehr-cost-and-budget-guide.html" id="5096">
       <title>How much EHR costs and how to set your budget</title>
+    </bookmark>
+    <bookmark href="https://www.tutorialspoint.com/solidity/index.htm" id="5105">
+      <title>Solidity Tutorial</title>
     </bookmark>
   </folder>
   <folder id="2210">
