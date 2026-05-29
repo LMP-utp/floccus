@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :5109: for Floccus bookmark sync browser extension -->
+<!--- highestId :5110: for Floccus bookmark sync browser extension -->
 
 <folder id="2">
   <title>ST y FT y VD</title>
@@ -6738,6 +6738,9 @@
     </bookmark>
     <bookmark href="https://ietsi.essalud.gob.pe/petitorios-listados/" id="5109">
       <title>Petitorios Listados – IETSI</title>
+    </bookmark>
+    <bookmark href="https://dyaku.minsa.gob.pe/guides/index.html" id="5110">
+      <title>HL7.FHIR.PE.COREPE\Home - FHIR v4.0.1</title>
     </bookmark>
   </folder>
   <folder id="2210">
