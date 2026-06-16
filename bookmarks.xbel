@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :5117: for Floccus bookmark sync browser extension -->
+<!--- highestId :5119: for Floccus bookmark sync browser extension -->
 
 <folder id="2">
   <title>ST y FT y VD</title>
@@ -6759,6 +6759,12 @@
     <title>DWI</title>
     <bookmark href="https://angular.dev/essentials/signals" id="5115">
       <title>Reactivity with signals • Angular</title>
+    </bookmark>
+    <bookmark href="https://sqlpey.com/angular/fixing-angular-ng8002-formgroup-error/" id="5118">
+      <title>Fixing Angular NG8002 Error: &apos;formGroup&apos; Not a Known …</title>
+    </bookmark>
+    <bookmark href="https://www.concretepage.com/questions/938" id="5119">
+      <title>TS2729: Property &apos;formBuilder&apos; is used before its initialization</title>
     </bookmark>
   </folder>
   <folder id="2210">
