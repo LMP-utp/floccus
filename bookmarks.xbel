@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :5122: for Floccus bookmark sync browser extension -->
+<!--- highestId :5123: for Floccus bookmark sync browser extension -->
 
 <folder id="2">
   <title>ST y FT y VD</title>
@@ -6233,6 +6233,9 @@
       </bookmark>
       <bookmark href="https://spring.io/projects/spring-security#learn" id="5104">
         <title>Spring Security</title>
+      </bookmark>
+      <bookmark href="https://opencode.ai/docs/es/troubleshooting/" id="5123">
+        <title>Solución de problemas | OpenCode</title>
       </bookmark>
     </folder>
     <bookmark href="https://www.youtube.com/watch?v=1dbCGGz48w0&amp;list=PL3Acx4r6rKWOrx19qPNGnKBcogB3DuniB&amp;index=26" id="2095">
