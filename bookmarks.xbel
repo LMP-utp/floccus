@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :5126: for Floccus bookmark sync browser extension -->
+<!--- highestId :5127: for Floccus bookmark sync browser extension -->
 
 <folder id="2">
   <title>ST y FT y VD</title>
@@ -6765,6 +6765,9 @@
     </bookmark>
     <bookmark href="https://www.ayudablockchain.dev/blog/entorno-desarrollo-blockchain-hardhat/" id="5126">
       <title>Entorno desarrollo blockchain - Hardhat | AyudaBlockchain</title>
+    </bookmark>
+    <bookmark href="https://www.baeldung.com/web3j" id="5127">
+      <title>Lightweight Ethereum clients Using Web3j | Baeldung</title>
     </bookmark>
   </folder>
   <folder id="5116">
