@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :5128: for Floccus bookmark sync browser extension -->
+<!--- highestId :5129: for Floccus bookmark sync browser extension -->
 
 <folder id="2">
   <title>ST y FT y VD</title>
@@ -6771,6 +6771,9 @@
     </bookmark>
     <bookmark href="https://www.baeldung.com/web3j" id="5127">
       <title>Lightweight Ethereum clients Using Web3j | Baeldung</title>
+    </bookmark>
+    <bookmark href="https://www.izertis.com/es/w/blog/como-arrancar-y-testear-tu-propia-blockchain-con-ganache" id="5129">
+      <title>Cómo arrancar y testear tu propia Blockchain con Ganache - Izertis</title>
     </bookmark>
   </folder>
   <folder id="5116">
