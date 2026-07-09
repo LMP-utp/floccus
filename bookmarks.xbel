@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :5133: for Floccus bookmark sync browser extension -->
+<!--- highestId :5134: for Floccus bookmark sync browser extension -->
 
 <folder id="2">
   <title>ST y FT y VD</title>
@@ -9982,6 +9982,9 @@
   </bookmark>
   <bookmark href="https://alternativeto.net/lists/42568/europe-s-open-source-solutions-your-guide-to-transparent-independent-and-gdpr-aligned-software-/" id="2234">
     <title>Europe’s Open-Source Solutions: Your Guide to Transparent, Independent and GDPR-Aligned Software. | AlternativeTo</title>
+  </bookmark>
+  <bookmark href="https://www.acm.org/education/curricula-recommendations" id="5134">
+    <title>Curricula Recommendations</title>
   </bookmark>
 </folder>
 <folder id="3271">
