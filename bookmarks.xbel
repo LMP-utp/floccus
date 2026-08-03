@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :5137: for Floccus bookmark sync browser extension -->
+<!--- highestId :5138: for Floccus bookmark sync browser extension -->
 
 <folder id="2">
   <title>ST y FT y VD</title>
@@ -12996,6 +12996,9 @@
     </bookmark>
     <bookmark href="https://learn.microsoft.com/es-es/lifecycle/products/?products=windows" id="5136">
       <title>Buscar información sobre el ciclo de vida de los productos y servicios - Microsoft Lifecycle | Microsoft Learn</title>
+    </bookmark>
+    <bookmark href="https://archive.org/details/windows10.11.spanish" id="5138">
+      <title>Windows 10 y 11 | Todas las ISOs en Español : Free Download, Borrow, and Streaming : Internet Archive</title>
     </bookmark>
   </folder>
   <folder id="4096">
