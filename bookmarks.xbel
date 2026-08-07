@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :5165: for Floccus bookmark sync browser extension -->
+<!--- highestId :5166: for Floccus bookmark sync browser extension -->
 
 <folder id="2">
   <title>ST y FT y VD</title>
@@ -6391,6 +6391,9 @@
   </folder>
   <folder id="5165">
     <title>Opencode</title>
+    <bookmark href="https://opencode.ai/docs/windows-wsl" id="5166">
+      <title>Windows (WSL) | OpenCode</title>
+    </bookmark>
   </folder>
   <folder id="1971">
     <title>IA</title>
