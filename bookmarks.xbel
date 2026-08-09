@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :5175: for Floccus bookmark sync browser extension -->
+<!--- highestId :5176: for Floccus bookmark sync browser extension -->
 
 <folder id="2">
   <title>ST y FT y VD</title>
@@ -9493,374 +9493,8 @@
         </bookmark>
       </folder>
     </folder>
-    <folder id="2210">
-      <title>6to Ciclo</title>
-      <folder id="2238">
-        <title>SI</title>
-        <bookmark href="https://www.youtube.com/watch?v=D-GSdnqTX7A" id="2253">
-          <title>Semana 1 - Tu futuro estará en la ciberseguridad - YouTube</title>
-        </bookmark>
-      </folder>
-      <folder id="2239">
-        <title>MDW</title>
-        <bookmark href="https://8116f01c8735.ngrok-free.app/" id="2254">
-          <title>RAMBAL | Comercial</title>
-        </bookmark>
-        <bookmark href="https://www.youtube.com/shorts/AFeVVVm6uBY" id="2255">
-          <title>Atajos de html en visual estudio code. - YouTube</title>
-        </bookmark>
-        <bookmark href="https://www.youtube.com/shorts/wIm_hqbf3v0" id="2256">
-          <title>Aprende 8 trucos para escribir HTML en VS Code - YouTube</title>
-        </bookmark>
-        <bookmark href="https://www.stridesapp.com/" id="2257">
-          <title>Strides: Goal &amp; Habit Tracker + SMART Goal Setting App</title>
-        </bookmark>
-        <bookmark href="https://clickup.com/signup" id="2258">
-          <title>Sign Up | ClickUp™</title>
-        </bookmark>
-        <bookmark href="https://clickup.com/es-ES/blog/13880/apps-de-seguimiento-de-metas" id="2259">
-          <title>las 10 mejores apps de seguimiento de metas para 2025 (gratis/a)</title>
-        </bookmark>
-        <bookmark href="https://css-tricks.com/snippets/css/a-guide-to-flexbox/#flexbox-background" id="2260">
-          <title>CSS Flexbox Layout Guide | CSS-Tricks</title>
-        </bookmark>
-        <bookmark href="https://teachmeidea.com/spring-boot-vs-spring-framework-2025/" id="2261">
-          <title>Spring Boot vs Spring Framework: What’s the Difference in 2025? - TeachMeIDEA</title>
-        </bookmark>
-        <bookmark href="https://www.youtube.com/watch?v=GkkcZXF-mD8" id="2262">
-          <title>#17 Datos de primavera JPA - YouTube</title>
-        </bookmark>
-        <bookmark href="https://www.srcodigofuente.es/aprender-sql/guia-heidisql" id="2263">
-          <title>https://www.srcodigofuente.es/aprender-sql/guia-heidisql</title>
-        </bookmark>
-        <bookmark href="https://www.jc-mouse.net/base-de-datos/introduccion-a-mariadb-con-java/" id="2264">
-          <title>Introducción a MariaDB con Java | jc-mouse.net</title>
-        </bookmark>
-        <bookmark href="https://www.jc-mouse.net/base-de-datos/tutorial-heidisql-sesion-base-de-datos-y-tablas/" id="2265">
-          <title>Tutorial HeidiSQL: Sesion, Base de datos y Tablas | jc-mouse.net</title>
-        </bookmark>
-        <bookmark href="https://www.youtube.com/watch?v=bx0SwViVLlM" id="2266">
-          <title>Creación de tablas HeidiSql - YouTube</title>
-        </bookmark>
-        <bookmark href="https://mockaroo.com/" id="2267">
-          <title>Mockaroo - Random Data Generator and API Mocking Tool | JSON / CSV / SQL / Excel</title>
-        </bookmark>
-        <bookmark href="https://www.youtube.com/watch?v=AuInib0a4h0" id="2268">
-          <title>Code with me: trabajo colaborativo remoto en el IntelliJ Idea - YouTube</title>
-        </bookmark>
-      </folder>
-      <folder id="2240">
-        <title>HCE</title>
-        <bookmark href="https://www.youtube.com/watch?v=fY9BCDrDNR8" id="2269">
-          <title>Semana 1 - Características de la comunicación efectiva - YouTube</title>
-        </bookmark>
-        <bookmark href="https://www.youtube.com/watch?v=oaH0L0V5FU4" id="2270">
-          <title>Radio a Galena - YouTube</title>
-        </bookmark>
-        <bookmark href="https://pruebafranco.s3.sa-east-1.amazonaws.com/UTP/Cursos+generales/Herramientas+para+la+comunicaci%C3%B3n+efectiva/Unidad+3/La+asertividad+en+la+comunicaci%C3%B3n+interpersonal/index.html#/lessons/CnhNK2pJqLvSBuUBXkGgWEopa4VBj2Wy" id="2271">
-          <title>La asertividad en la comunicación interpersonal</title>
-        </bookmark>
-        <bookmark href="https://www.youtube.com/watch?v=i2EbuuM_6_M" id="2272">
-          <title>Cinco estilos de negociación para resolver conflictos - YouTube</title>
-        </bookmark>
-      </folder>
-      <folder id="2241">
-        <title>HECA</title>
-        <bookmark href="https://www.youtube.com/watch?v=HY8q4TD3KGM" id="2273">
-          <title>Learn CSS Media Query - Build 3 Projects in 2021🎖️ || CSS 2021 - YouTube</title>
-        </bookmark>
-        <bookmark href="https://www.freecodecamp.org/espanol/news/aprende-unidades-de-medidad-css-em-rem-vh-y-vw-con-ejemplos-de-codigos/" id="2274">
-          <title>Aprende unidades CSS - Em, Rem, VH y VW con ejemplos de códigos</title>
-        </bookmark>
-        <bookmark href="https://www.youtube.com/shorts/kdZhisSuxmY" id="2275">
-          <title>DEBES SABER esto de CSS. - YouTube</title>
-        </bookmark>
-        <bookmark href="https://www.youtube.com/shorts/ehiNLjEaz_c" id="2276">
-          <title>¡Evita este error en las imágenes de tu web! Una propiedad de CSS para evitar que salgan estiradas. - YouTube</title>
-        </bookmark>
-        <bookmark href="https://www.youtube.com/shorts/Zf_3i6Ij46w" id="2277">
-          <title>Mantener el footer abajo en tu página web con CSS Grid - YouTube</title>
-        </bookmark>
-        <bookmark href="https://www.youtube.com/shorts/ej9OpedGNpQ" id="2278">
-          <title>✅ TRUCO CSS - TEXTO RESPONSIVE SIN MEDIAQUERIES - YouTube</title>
-        </bookmark>
-        <bookmark href="https://www.youtube.com/watch?v=6ixtdGW8p9A" id="2279">
-          <title>SASS VS. LESS - YouTube</title>
-        </bookmark>
-        <bookmark href="https://www.youtube.com/watch?v=uhvKSTQd06k" id="2280">
-          <title>QUÉ ES SASS: VENTAJAS, DESVENTAJAS Y EJEMPLOS DE DESARROLLO - YouTube</title>
-        </bookmark>
-        <bookmark href="https://www.youtube.com/watch?v=BtiiM3jeb_c" id="2281">
-          <title>Aprende SASS en 15 Minutos 📔 - YouTube</title>
-        </bookmark>
-        <bookmark href="https://utpvirtual.zoom.us/rec/play/BmSE-q43zLY685vg7VUm8UDiZoN-B5XIW7k1GzLyofhnVs7X2W_zLLr0lPmpi69VJPfAauQVpaP3DPVY.lGmYD3focNd1nWyp" id="2282">
-          <title>HOJAS DE ESTILO EN CASCADA AVA (44473) ( Semana 7 ) -Jueves - Zoom</title>
-        </bookmark>
-        <bookmark href="https://www.jc-mouse.net/" id="2283">
-          <title>jc-mouse.net | Desarrollo de Software</title>
-        </bookmark>
-        <bookmark href="https://www.aplicaciones.info/index.html" id="2284">
-          <title>https://www.aplicaciones.info/index.html</title>
-        </bookmark>
-        <bookmark href="https://catalyst.tailwindui.com/docs" id="2285">
-          <title>Getting started - Catalyst UI Kit for Tailwind CSS</title>
-        </bookmark>
-        <bookmark href="https://www.youtube.com/watch?v=7hHUnYDr9kQ" id="2286">
-          <title>Aprende Tailwind CSS en 10 minutos // Qué es Tailwind y cómo puedes usarlo en tus aplicaciones - YouTube</title>
-        </bookmark>
-        <bookmark href="https://693ac17f473f52b6c1d1614d--fastidious-gumdrop-5fbbfa.netlify.app/" id="2287">
-          <title>Aplicaciones Didácticas - 20º Aniversario</title>
-        </bookmark>
-        <bookmark href="https://kevinsalazar.pe/" id="2288">
-          <title>Kevin Salazar Ruiz | Software Engineer &amp; UX/UI Product Designer</title>
-        </bookmark>
-      </folder>
-      <folder id="2242">
-        <title>LGE</title>
-        <bookmark href="https://www.belbin.es/" id="2289">
-          <title>Belbin | Equipos de alto rendimiento</title>
-        </bookmark>
-        <bookmark href="https://habilidadsocial.com/test-de-habilidades-sociales/" id="2290">
-          <title>Test de Habilidades Sociales</title>
-        </bookmark>
-      </folder>
-    </folder>
-    <folder id="2211">
-      <title>6to Ciclo - Verano</title>
-      <folder id="2243">
-        <title>Prototipado</title>
-        <bookmark href="https://www.smashingmagazine.com/2017/10/storyboarding-ux-design/" id="2291">
-          <title>The Role Of Storyboarding In UX Design — Smashing Magazine</title>
-        </bookmark>
-        <bookmark href="https://clinicalaluz.pe/" id="2292">
-          <title>Clínica La Luz – Clínica peruana con más de 30 especialidades médicas</title>
-        </bookmark>
-        <bookmark href="https://www.figma.com/board/qm9zTmIsDi8NTY4sv3cQXD/SolucionesApiWeb--Copy-?node-id=0-1&amp;p=f&amp;t=8huD1aSFuDlsZuMu-0" id="2293">
-          <title>SolucionesApiWeb (Copy) – FigJam</title>
-        </bookmark>
-        <bookmark href="https://www.figma.com/design/OphYMK2b0WDPIYtwpmCrqC/Untitled?node-id=1-967&amp;p=f" id="2294">
-          <title>Untitled – Figma</title>
-        </bookmark>
-        <bookmark href="https://www.youtube.com/watch?v=oMmig6-yvms" id="2295">
-          <title>UI/UX Design | Creating High-Fidelity Wireframes In Figma - YouTube</title>
-        </bookmark>
-        <bookmark href="https://www.youtube.com/watch?v=bnoPAezI6cw" id="2296">
-          <title>Tutorial de Figma: Domina los componentes y variantes de Figma en 20 minutos (Guía para principia... - YouTube</title>
-        </bookmark>
-        <bookmark href="https://www.youtube.com/watch?v=WfijDKxzLac" id="2297">
-          <title>Cómo crear un conjunto de componentes en Figma (Guía completa de 2026) - YouTube</title>
-        </bookmark>
-      </folder>
-      <folder id="2244">
-        <title>JSA</title>
-        <bookmark href="https://teams.microsoft.com/v2/" id="2298">
-          <title>Chat | UTP-25-2-JSA-44474 | Microsoft Teams</title>
-        </bookmark>
-        <bookmark href="https://getbootstrap.com/docs/3.3/getting-started/" id="2299">
-          <title>Getting started · Bootstrap</title>
-        </bookmark>
-        <bookmark href="https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Operators/Spread_syntax" id="2300">
-          <title>Sintaxis Spread</title>
-        </bookmark>
-        <bookmark href="https://desarrolloweb.com/articulos/operador-spread-es6.html" id="2301">
-          <title>Operador spread (de propagación) en Javascript ES6</title>
-        </bookmark>
-        <bookmark href="https://www.w3schools.com/js/js_strings.asp" id="2302">
-          <title>JavaScript Strings</title>
-        </bookmark>
-        <bookmark href="https://developer.mozilla.org/es/docs/Web/JavaScript/Guide/Data_structures" id="2303">
-          <title>Tipos de datos y estructuras en JavaScript - JavaScript | MDN</title>
-        </bookmark>
-        <bookmark href="https://www.youtube.com/watch?v=CwtB1_1qUCI" id="2304">
-          <title>Instalación y configuración de Node.js + TypeScript | Ejercicio Demo - YouTube</title>
-        </bookmark>
-        <bookmark href="https://elibro.net/es/lc/utpbiblio/titulos/281446" id="2305">
-          <title>utpbiblio - El gran libro de Angular</title>
-        </bookmark>
-        <bookmark href="https://www.alphaeditorialcloud.com/reader/javascript-guia-completa?location=93" id="2306">
-          <title>JavaScript Guía completa - Alpha CLOUD</title>
-        </bookmark>
-        <bookmark href="https://react-bootstrap.github.io/" id="2307">
-          <title>React Bootstrap | React Bootstrap</title>
-        </bookmark>
-        <bookmark href="https://vuejs.org/guide/quick-start.html" id="2308">
-          <title>Quick Start | Vue.js</title>
-        </bookmark>
-        <bookmark href="https://mockapi.io/" id="2309">
-          <title>mockAPI</title>
-        </bookmark>
-        <bookmark href="https://es.stackoverflow.com/questions/218426/falta-la-cabecera-cors-access-control-allow-origin" id="2310">
-          <title>web - Falta la cabecera CORS &apos;Access-Control-Allow-Origin&apos; - Stack Overflow en español</title>
-        </bookmark>
-        <bookmark href="https://rubenr.dev/es/errores-cors-vite-vue/" id="2311">
-          <title>CORS y Vite: Solución a los problemas de CORS en local y desplegando con Netlify | Rubén Rodríguez</title>
-        </bookmark>
-        <bookmark href="https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Number/isSafeInteger" id="2312">
-          <title>Number.isSafeInteger() - JavaScript | MDN</title>
-        </bookmark>
-        <bookmark href="https://docs.culqi.com/es/documentacion/pagos-online/tarjetas-de-prueba" id="2313">
-          <title>Tarjetas de Prueba | Documentación</title>
-        </bookmark>
-        <bookmark href="https://docs.angular.lat/guide/forms/reactive-forms" id="2314">
-          <title>Formularios reactivos • Angular</title>
-        </bookmark>
-        <bookmark href="https://lenguajejs.com/react/componentes/hooks/" id="2315">
-          <title>¿Qué son los hooks? - Javascript en español</title>
-        </bookmark>
-        <bookmark href="https://www.youtube.com/watch?v=AzhzqRZJOak" id="2316">
-          <title>Integrar php con pasarela de pago culqi - YouTube</title>
-        </bookmark>
-        <bookmark href="https://www.youtube.com/watch?v=jPiv3thM7Kg" id="2317">
-          <title>Implementar Culqi en Nextjs/React - Typescript - YouTube</title>
-        </bookmark>
-        <bookmark href="https://www.youtube.com/shorts/uPZX1wZOK4U" id="2318">
-          <title>React y Next.js en 2025_ ¡No lo aprendas así! - YouTube</title>
-        </bookmark>
-      </folder>
-    </folder>
     <folder id="5168">
       <title>7mo Ciclo</title>
-      <folder id="5130">
-        <title>DIAE</title>
-        <bookmark href="https://www.youtube.com/watch?v=Ei5QnJlGVxc" id="5131">
-          <title>Reemplacé n8n, Zapier y Make con una herramienta gratuita. - YouTube</title>
-        </bookmark>
-      </folder>
-      <folder id="2209">
-        <title>FIS</title>
-        <bookmark href="https://revistas.urp.edu.pe/index.php/RFMH/article/view/5900/10458" id="2235">
-          <title>View of Blockchain technology applied in medicine: a systematic review | Revista de la Facultad de Medicina Humana</title>
-        </bookmark>
-        <bookmark href="moz-extension://5735106e-c882-49c1-96e7-78dbeb8f2751/enhanced-reader.html?pdf=https%3A%2F%2Fbrxt.mendeley.com%2Fdocument%2Fcontent%2Fb53118cb-d6cc-3b7f-9d91-de90495b9023" id="2236">
-          <title>OP-JAMI180179 392..403 | Enhanced Reader</title>
-        </bookmark>
-        <bookmark href="https://jamanetwork.com/journals/jama/fullarticle/2703327" id="2237">
-          <title>Temporal Trends and Characteristics of Reportable Health Data Breaches, 2010-2017 | Law and Medicine | JAMA | JAMA Network</title>
-        </bookmark>
-        <bookmark href="https://www.prisma-statement.org/translations" id="5082">
-          <title>PRISMA translations — PRISMA statement</title>
-        </bookmark>
-        <bookmark href="https://jxausea.medium.com/spring-boot-integrated-blockchain-quick-start-demo-30d2010412e5" id="5084">
-          <title>Spring Boot Integrated BlockChain Quick Start Demo | by HBLOG | Medium</title>
-        </bookmark>
-        <bookmark href="https://devjvm.com/classes/environmental-studies-earth-sciences-2/" id="5085">
-          <title>Del contrato inteligente al backend en Java: Integración de Blockchain con Spring Boot</title>
-        </bookmark>
-        <bookmark href="https://www.hhs.gov/hipaa/for-professionals/security/laws-regulations/index.html" id="5094">
-          <title>Summary of the HIPAA Security Rule | HHS.gov</title>
-        </bookmark>
-        <bookmark href="moz-extension://5735106e-c882-49c1-96e7-78dbeb8f2751/enhanced-reader.html?pdf=https%3A%2F%2Fbrxt.mendeley.com%2Fdocument%2Fcontent%2Fb53118cb-d6cc-3b7f-9d91-de90495b9023" id="5141">
-          <title>OP-JAMI180179 392..403 | Enhanced Reader</title>
-        </bookmark>
-        <bookmark href="moz-extension://5735106e-c882-49c1-96e7-78dbeb8f2751/enhanced-reader.html?pdf=https%3A%2F%2Fbrxt.mendeley.com%2Fdocument%2Fcontent%2Fb53118cb-d6cc-3b7f-9d91-de90495b9023" id="5142">
-          <title>OP-JAMI180179 392..403 | Enhanced Reader</title>
-        </bookmark>
-        <bookmark href="moz-extension://5735106e-c882-49c1-96e7-78dbeb8f2751/enhanced-reader.html?pdf=https%3A%2F%2Fbrxt.mendeley.com%2Fdocument%2Fcontent%2Fb53118cb-d6cc-3b7f-9d91-de90495b9023" id="5143">
-          <title>OP-JAMI180179 392..403 | Enhanced Reader</title>
-        </bookmark>
-        <bookmark href="moz-extension://5735106e-c882-49c1-96e7-78dbeb8f2751/enhanced-reader.html?pdf=https%3A%2F%2Fbrxt.mendeley.com%2Fdocument%2Fcontent%2Fb53118cb-d6cc-3b7f-9d91-de90495b9023" id="5144">
-          <title>OP-JAMI180179 392..403 | Enhanced Reader</title>
-        </bookmark>
-        <bookmark href="moz-extension://5735106e-c882-49c1-96e7-78dbeb8f2751/enhanced-reader.html?pdf=https%3A%2F%2Fbrxt.mendeley.com%2Fdocument%2Fcontent%2Fb53118cb-d6cc-3b7f-9d91-de90495b9023" id="5145">
-          <title>OP-JAMI180179 392..403 | Enhanced Reader</title>
-        </bookmark>
-        <bookmark href="moz-extension://5735106e-c882-49c1-96e7-78dbeb8f2751/enhanced-reader.html?pdf=https%3A%2F%2Fbrxt.mendeley.com%2Fdocument%2Fcontent%2Fb53118cb-d6cc-3b7f-9d91-de90495b9023" id="5146">
-          <title>OP-JAMI180179 392..403 | Enhanced Reader</title>
-        </bookmark>
-        <bookmark href="moz-extension://5735106e-c882-49c1-96e7-78dbeb8f2751/enhanced-reader.html?pdf=https%3A%2F%2Fbrxt.mendeley.com%2Fdocument%2Fcontent%2Fb53118cb-d6cc-3b7f-9d91-de90495b9023" id="5147">
-          <title>OP-JAMI180179 392..403 | Enhanced Reader</title>
-        </bookmark>
-        <bookmark href="moz-extension://5735106e-c882-49c1-96e7-78dbeb8f2751/enhanced-reader.html?pdf=https%3A%2F%2Fbrxt.mendeley.com%2Fdocument%2Fcontent%2Fb53118cb-d6cc-3b7f-9d91-de90495b9023" id="5148">
-          <title>OP-JAMI180179 392..403 | Enhanced Reader</title>
-        </bookmark>
-        <bookmark href="moz-extension://5735106e-c882-49c1-96e7-78dbeb8f2751/enhanced-reader.html?pdf=https%3A%2F%2Fbrxt.mendeley.com%2Fdocument%2Fcontent%2Fb53118cb-d6cc-3b7f-9d91-de90495b9023" id="5149">
-          <title>OP-JAMI180179 392..403 | Enhanced Reader</title>
-        </bookmark>
-        <bookmark href="moz-extension://5735106e-c882-49c1-96e7-78dbeb8f2751/enhanced-reader.html?pdf=https%3A%2F%2Fbrxt.mendeley.com%2Fdocument%2Fcontent%2Fb53118cb-d6cc-3b7f-9d91-de90495b9023" id="5150">
-          <title>OP-JAMI180179 392..403 | Enhanced Reader</title>
-        </bookmark>
-        <bookmark href="moz-extension://5735106e-c882-49c1-96e7-78dbeb8f2751/enhanced-reader.html?pdf=https%3A%2F%2Fbrxt.mendeley.com%2Fdocument%2Fcontent%2Fb53118cb-d6cc-3b7f-9d91-de90495b9023" id="5151">
-          <title>OP-JAMI180179 392..403 | Enhanced Reader</title>
-        </bookmark>
-        <bookmark href="moz-extension://5735106e-c882-49c1-96e7-78dbeb8f2751/enhanced-reader.html?pdf=https%3A%2F%2Fbrxt.mendeley.com%2Fdocument%2Fcontent%2Fb53118cb-d6cc-3b7f-9d91-de90495b9023" id="5152">
-          <title>OP-JAMI180179 392..403 | Enhanced Reader</title>
-        </bookmark>
-        <bookmark href="moz-extension://5735106e-c882-49c1-96e7-78dbeb8f2751/enhanced-reader.html?pdf=https%3A%2F%2Fbrxt.mendeley.com%2Fdocument%2Fcontent%2Fb53118cb-d6cc-3b7f-9d91-de90495b9023" id="5153">
-          <title>OP-JAMI180179 392..403 | Enhanced Reader</title>
-        </bookmark>
-        <bookmark href="moz-extension://5735106e-c882-49c1-96e7-78dbeb8f2751/enhanced-reader.html?pdf=https%3A%2F%2Fbrxt.mendeley.com%2Fdocument%2Fcontent%2Fb53118cb-d6cc-3b7f-9d91-de90495b9023" id="5154">
-          <title>OP-JAMI180179 392..403 | Enhanced Reader</title>
-        </bookmark>
-        <bookmark href="moz-extension://5735106e-c882-49c1-96e7-78dbeb8f2751/enhanced-reader.html?pdf=https%3A%2F%2Fbrxt.mendeley.com%2Fdocument%2Fcontent%2Fb53118cb-d6cc-3b7f-9d91-de90495b9023" id="5155">
-          <title>OP-JAMI180179 392..403 | Enhanced Reader</title>
-        </bookmark>
-      </folder>
-      <folder id="5095">
-        <title>ITD</title>
-        <bookmark href="https://www.ehrinpractice.com/ehr-cost-and-budget-guide.html" id="5096">
-          <title>How much EHR costs and how to set your budget</title>
-        </bookmark>
-        <bookmark href="https://www.tutorialspoint.com/solidity/index.htm" id="5105">
-          <title>Solidity Tutorial</title>
-        </bookmark>
-        <bookmark href="https://www.dappuniversity.com/articles/solidity-tutorial" id="5106">
-          <title>Solidity for Beginners · Smart Contract Development Crash Course | Dapp University</title>
-        </bookmark>
-        <bookmark href="https://www.tutorialspoint.com/solidity/solidity_quick_guide.htm" id="5107">
-          <title>Solidity - Quick Guide</title>
-        </bookmark>
-        <bookmark href="https://www.neoguias.com/tutorial-wallet-multifirma-solidity/" id="5108">
-          <title>Cómo crear una Wallet Multifirma con Solidity y React | Neoguias</title>
-        </bookmark>
-        <bookmark href="https://ietsi.essalud.gob.pe/petitorios-listados/" id="5109">
-          <title>Petitorios Listados – IETSI</title>
-        </bookmark>
-        <bookmark href="https://dyaku.minsa.gob.pe/guides/index.html" id="5110">
-          <title>HL7.FHIR.PE.COREPE\Home - FHIR v4.0.1</title>
-        </bookmark>
-        <bookmark href="https://www.youtube.com/results?search_query=jenkins+%2B+unity" id="5122">
-          <title>jenkins + unity - YouTube</title>
-        </bookmark>
-        <bookmark href="https://www.ayudablockchain.dev/blog/entorno-desarrollo-blockchain-hardhat/" id="5126">
-          <title>Entorno desarrollo blockchain - Hardhat | AyudaBlockchain</title>
-        </bookmark>
-        <bookmark href="https://www.baeldung.com/web3j" id="5127">
-          <title>Lightweight Ethereum clients Using Web3j | Baeldung</title>
-        </bookmark>
-        <bookmark href="https://www.izertis.com/es/w/blog/como-arrancar-y-testear-tu-propia-blockchain-con-ganache" id="5129">
-          <title>Cómo arrancar y testear tu propia Blockchain con Ganache - Izertis</title>
-        </bookmark>
-      </folder>
-      <folder id="5116">
-        <title>DWI</title>
-        <bookmark href="https://angular.dev/essentials/signals" id="5115">
-          <title>Reactivity with signals • Angular</title>
-        </bookmark>
-        <bookmark href="https://sqlpey.com/angular/fixing-angular-ng8002-formgroup-error/" id="5118">
-          <title>Fixing Angular NG8002 Error: &apos;formGroup&apos; Not a Known …</title>
-        </bookmark>
-        <bookmark href="https://www.concretepage.com/questions/938" id="5119">
-          <title>TS2729: Property &apos;formBuilder&apos; is used before its initialization</title>
-        </bookmark>
-        <bookmark href="https://angular.dev/tutorials/first-app/01-hello-world" id="5120">
-          <title>Hello world! • Angular</title>
-        </bookmark>
-        <bookmark href="https://openlibrary.org/" id="5124">
-          <title>Bienvenido a la Biblioteca Abierta | Biblioteca Abierta</title>
-        </bookmark>
-        <bookmark href="https://angular.dev/tutorials/first-app/12-forms" id="5125">
-          <title>Integrate Angular forms • Angular</title>
-        </bookmark>
-        <bookmark href="https://www.youtube.com/watch?v=WmDPTqlBAX0" id="5132">
-          <title>🚀 Cómo dockerizar una aplicación con Spring Boot 🐳 - YouTube</title>
-        </bookmark>
-        <bookmark href="https://www.youtube.com/watch?v=0RKpf3rK57I" id="5133">
-          <title>Hugo en 100 segundos - YouTube</title>
-        </bookmark>
-        <bookmark href="https://angular.dev/tutorials/first-app/13-search" id="5135">
-          <title>Add search functionality • Angular</title>
-        </bookmark>
-      </folder>
     </folder>
     <folder id="2252">
       <title>Otros</title>
@@ -10052,6 +9686,372 @@
   <bookmark href="https://www.acm.org/education/curricula-recommendations" id="5134">
     <title>Curricula Recommendations</title>
   </bookmark>
+  <folder id="2209">
+    <title>FIS</title>
+    <bookmark href="https://revistas.urp.edu.pe/index.php/RFMH/article/view/5900/10458" id="2235">
+      <title>View of Blockchain technology applied in medicine: a systematic review | Revista de la Facultad de Medicina Humana</title>
+    </bookmark>
+    <bookmark href="moz-extension://5735106e-c882-49c1-96e7-78dbeb8f2751/enhanced-reader.html?pdf=https%3A%2F%2Fbrxt.mendeley.com%2Fdocument%2Fcontent%2Fb53118cb-d6cc-3b7f-9d91-de90495b9023" id="2236">
+      <title>OP-JAMI180179 392..403 | Enhanced Reader</title>
+    </bookmark>
+    <bookmark href="https://jamanetwork.com/journals/jama/fullarticle/2703327" id="2237">
+      <title>Temporal Trends and Characteristics of Reportable Health Data Breaches, 2010-2017 | Law and Medicine | JAMA | JAMA Network</title>
+    </bookmark>
+    <bookmark href="https://www.prisma-statement.org/translations" id="5082">
+      <title>PRISMA translations — PRISMA statement</title>
+    </bookmark>
+    <bookmark href="https://jxausea.medium.com/spring-boot-integrated-blockchain-quick-start-demo-30d2010412e5" id="5084">
+      <title>Spring Boot Integrated BlockChain Quick Start Demo | by HBLOG | Medium</title>
+    </bookmark>
+    <bookmark href="https://devjvm.com/classes/environmental-studies-earth-sciences-2/" id="5085">
+      <title>Del contrato inteligente al backend en Java: Integración de Blockchain con Spring Boot</title>
+    </bookmark>
+    <bookmark href="https://www.hhs.gov/hipaa/for-professionals/security/laws-regulations/index.html" id="5094">
+      <title>Summary of the HIPAA Security Rule | HHS.gov</title>
+    </bookmark>
+    <bookmark href="moz-extension://5735106e-c882-49c1-96e7-78dbeb8f2751/enhanced-reader.html?pdf=https%3A%2F%2Fbrxt.mendeley.com%2Fdocument%2Fcontent%2Fb53118cb-d6cc-3b7f-9d91-de90495b9023" id="5141">
+      <title>OP-JAMI180179 392..403 | Enhanced Reader</title>
+    </bookmark>
+    <bookmark href="moz-extension://5735106e-c882-49c1-96e7-78dbeb8f2751/enhanced-reader.html?pdf=https%3A%2F%2Fbrxt.mendeley.com%2Fdocument%2Fcontent%2Fb53118cb-d6cc-3b7f-9d91-de90495b9023" id="5142">
+      <title>OP-JAMI180179 392..403 | Enhanced Reader</title>
+    </bookmark>
+    <bookmark href="moz-extension://5735106e-c882-49c1-96e7-78dbeb8f2751/enhanced-reader.html?pdf=https%3A%2F%2Fbrxt.mendeley.com%2Fdocument%2Fcontent%2Fb53118cb-d6cc-3b7f-9d91-de90495b9023" id="5143">
+      <title>OP-JAMI180179 392..403 | Enhanced Reader</title>
+    </bookmark>
+    <bookmark href="moz-extension://5735106e-c882-49c1-96e7-78dbeb8f2751/enhanced-reader.html?pdf=https%3A%2F%2Fbrxt.mendeley.com%2Fdocument%2Fcontent%2Fb53118cb-d6cc-3b7f-9d91-de90495b9023" id="5144">
+      <title>OP-JAMI180179 392..403 | Enhanced Reader</title>
+    </bookmark>
+    <bookmark href="moz-extension://5735106e-c882-49c1-96e7-78dbeb8f2751/enhanced-reader.html?pdf=https%3A%2F%2Fbrxt.mendeley.com%2Fdocument%2Fcontent%2Fb53118cb-d6cc-3b7f-9d91-de90495b9023" id="5145">
+      <title>OP-JAMI180179 392..403 | Enhanced Reader</title>
+    </bookmark>
+    <bookmark href="moz-extension://5735106e-c882-49c1-96e7-78dbeb8f2751/enhanced-reader.html?pdf=https%3A%2F%2Fbrxt.mendeley.com%2Fdocument%2Fcontent%2Fb53118cb-d6cc-3b7f-9d91-de90495b9023" id="5146">
+      <title>OP-JAMI180179 392..403 | Enhanced Reader</title>
+    </bookmark>
+    <bookmark href="moz-extension://5735106e-c882-49c1-96e7-78dbeb8f2751/enhanced-reader.html?pdf=https%3A%2F%2Fbrxt.mendeley.com%2Fdocument%2Fcontent%2Fb53118cb-d6cc-3b7f-9d91-de90495b9023" id="5147">
+      <title>OP-JAMI180179 392..403 | Enhanced Reader</title>
+    </bookmark>
+    <bookmark href="moz-extension://5735106e-c882-49c1-96e7-78dbeb8f2751/enhanced-reader.html?pdf=https%3A%2F%2Fbrxt.mendeley.com%2Fdocument%2Fcontent%2Fb53118cb-d6cc-3b7f-9d91-de90495b9023" id="5148">
+      <title>OP-JAMI180179 392..403 | Enhanced Reader</title>
+    </bookmark>
+    <bookmark href="moz-extension://5735106e-c882-49c1-96e7-78dbeb8f2751/enhanced-reader.html?pdf=https%3A%2F%2Fbrxt.mendeley.com%2Fdocument%2Fcontent%2Fb53118cb-d6cc-3b7f-9d91-de90495b9023" id="5149">
+      <title>OP-JAMI180179 392..403 | Enhanced Reader</title>
+    </bookmark>
+    <bookmark href="moz-extension://5735106e-c882-49c1-96e7-78dbeb8f2751/enhanced-reader.html?pdf=https%3A%2F%2Fbrxt.mendeley.com%2Fdocument%2Fcontent%2Fb53118cb-d6cc-3b7f-9d91-de90495b9023" id="5150">
+      <title>OP-JAMI180179 392..403 | Enhanced Reader</title>
+    </bookmark>
+    <bookmark href="moz-extension://5735106e-c882-49c1-96e7-78dbeb8f2751/enhanced-reader.html?pdf=https%3A%2F%2Fbrxt.mendeley.com%2Fdocument%2Fcontent%2Fb53118cb-d6cc-3b7f-9d91-de90495b9023" id="5151">
+      <title>OP-JAMI180179 392..403 | Enhanced Reader</title>
+    </bookmark>
+    <bookmark href="moz-extension://5735106e-c882-49c1-96e7-78dbeb8f2751/enhanced-reader.html?pdf=https%3A%2F%2Fbrxt.mendeley.com%2Fdocument%2Fcontent%2Fb53118cb-d6cc-3b7f-9d91-de90495b9023" id="5152">
+      <title>OP-JAMI180179 392..403 | Enhanced Reader</title>
+    </bookmark>
+    <bookmark href="moz-extension://5735106e-c882-49c1-96e7-78dbeb8f2751/enhanced-reader.html?pdf=https%3A%2F%2Fbrxt.mendeley.com%2Fdocument%2Fcontent%2Fb53118cb-d6cc-3b7f-9d91-de90495b9023" id="5153">
+      <title>OP-JAMI180179 392..403 | Enhanced Reader</title>
+    </bookmark>
+    <bookmark href="moz-extension://5735106e-c882-49c1-96e7-78dbeb8f2751/enhanced-reader.html?pdf=https%3A%2F%2Fbrxt.mendeley.com%2Fdocument%2Fcontent%2Fb53118cb-d6cc-3b7f-9d91-de90495b9023" id="5154">
+      <title>OP-JAMI180179 392..403 | Enhanced Reader</title>
+    </bookmark>
+    <bookmark href="moz-extension://5735106e-c882-49c1-96e7-78dbeb8f2751/enhanced-reader.html?pdf=https%3A%2F%2Fbrxt.mendeley.com%2Fdocument%2Fcontent%2Fb53118cb-d6cc-3b7f-9d91-de90495b9023" id="5155">
+      <title>OP-JAMI180179 392..403 | Enhanced Reader</title>
+    </bookmark>
+  </folder>
+  <folder id="2210">
+    <title>6to Ciclo</title>
+    <folder id="2238">
+      <title>SI</title>
+      <bookmark href="https://www.youtube.com/watch?v=D-GSdnqTX7A" id="2253">
+        <title>Semana 1 - Tu futuro estará en la ciberseguridad - YouTube</title>
+      </bookmark>
+    </folder>
+    <folder id="2239">
+      <title>MDW</title>
+      <bookmark href="https://8116f01c8735.ngrok-free.app/" id="2254">
+        <title>RAMBAL | Comercial</title>
+      </bookmark>
+      <bookmark href="https://www.youtube.com/shorts/AFeVVVm6uBY" id="2255">
+        <title>Atajos de html en visual estudio code. - YouTube</title>
+      </bookmark>
+      <bookmark href="https://www.youtube.com/shorts/wIm_hqbf3v0" id="2256">
+        <title>Aprende 8 trucos para escribir HTML en VS Code - YouTube</title>
+      </bookmark>
+      <bookmark href="https://www.stridesapp.com/" id="2257">
+        <title>Strides: Goal &amp; Habit Tracker + SMART Goal Setting App</title>
+      </bookmark>
+      <bookmark href="https://clickup.com/signup" id="2258">
+        <title>Sign Up | ClickUp™</title>
+      </bookmark>
+      <bookmark href="https://clickup.com/es-ES/blog/13880/apps-de-seguimiento-de-metas" id="2259">
+        <title>las 10 mejores apps de seguimiento de metas para 2025 (gratis/a)</title>
+      </bookmark>
+      <bookmark href="https://css-tricks.com/snippets/css/a-guide-to-flexbox/#flexbox-background" id="2260">
+        <title>CSS Flexbox Layout Guide | CSS-Tricks</title>
+      </bookmark>
+      <bookmark href="https://teachmeidea.com/spring-boot-vs-spring-framework-2025/" id="2261">
+        <title>Spring Boot vs Spring Framework: What’s the Difference in 2025? - TeachMeIDEA</title>
+      </bookmark>
+      <bookmark href="https://www.youtube.com/watch?v=GkkcZXF-mD8" id="2262">
+        <title>#17 Datos de primavera JPA - YouTube</title>
+      </bookmark>
+      <bookmark href="https://www.srcodigofuente.es/aprender-sql/guia-heidisql" id="2263">
+        <title>https://www.srcodigofuente.es/aprender-sql/guia-heidisql</title>
+      </bookmark>
+      <bookmark href="https://www.jc-mouse.net/base-de-datos/introduccion-a-mariadb-con-java/" id="2264">
+        <title>Introducción a MariaDB con Java | jc-mouse.net</title>
+      </bookmark>
+      <bookmark href="https://www.jc-mouse.net/base-de-datos/tutorial-heidisql-sesion-base-de-datos-y-tablas/" id="2265">
+        <title>Tutorial HeidiSQL: Sesion, Base de datos y Tablas | jc-mouse.net</title>
+      </bookmark>
+      <bookmark href="https://www.youtube.com/watch?v=bx0SwViVLlM" id="2266">
+        <title>Creación de tablas HeidiSql - YouTube</title>
+      </bookmark>
+      <bookmark href="https://mockaroo.com/" id="2267">
+        <title>Mockaroo - Random Data Generator and API Mocking Tool | JSON / CSV / SQL / Excel</title>
+      </bookmark>
+      <bookmark href="https://www.youtube.com/watch?v=AuInib0a4h0" id="2268">
+        <title>Code with me: trabajo colaborativo remoto en el IntelliJ Idea - YouTube</title>
+      </bookmark>
+    </folder>
+    <folder id="2240">
+      <title>HCE</title>
+      <bookmark href="https://www.youtube.com/watch?v=fY9BCDrDNR8" id="2269">
+        <title>Semana 1 - Características de la comunicación efectiva - YouTube</title>
+      </bookmark>
+      <bookmark href="https://www.youtube.com/watch?v=oaH0L0V5FU4" id="2270">
+        <title>Radio a Galena - YouTube</title>
+      </bookmark>
+      <bookmark href="https://pruebafranco.s3.sa-east-1.amazonaws.com/UTP/Cursos+generales/Herramientas+para+la+comunicaci%C3%B3n+efectiva/Unidad+3/La+asertividad+en+la+comunicaci%C3%B3n+interpersonal/index.html#/lessons/CnhNK2pJqLvSBuUBXkGgWEopa4VBj2Wy" id="2271">
+        <title>La asertividad en la comunicación interpersonal</title>
+      </bookmark>
+      <bookmark href="https://www.youtube.com/watch?v=i2EbuuM_6_M" id="2272">
+        <title>Cinco estilos de negociación para resolver conflictos - YouTube</title>
+      </bookmark>
+    </folder>
+    <folder id="2241">
+      <title>HECA</title>
+      <bookmark href="https://www.youtube.com/watch?v=HY8q4TD3KGM" id="2273">
+        <title>Learn CSS Media Query - Build 3 Projects in 2021🎖️ || CSS 2021 - YouTube</title>
+      </bookmark>
+      <bookmark href="https://www.freecodecamp.org/espanol/news/aprende-unidades-de-medidad-css-em-rem-vh-y-vw-con-ejemplos-de-codigos/" id="2274">
+        <title>Aprende unidades CSS - Em, Rem, VH y VW con ejemplos de códigos</title>
+      </bookmark>
+      <bookmark href="https://www.youtube.com/shorts/kdZhisSuxmY" id="2275">
+        <title>DEBES SABER esto de CSS. - YouTube</title>
+      </bookmark>
+      <bookmark href="https://www.youtube.com/shorts/ehiNLjEaz_c" id="2276">
+        <title>¡Evita este error en las imágenes de tu web! Una propiedad de CSS para evitar que salgan estiradas. - YouTube</title>
+      </bookmark>
+      <bookmark href="https://www.youtube.com/shorts/Zf_3i6Ij46w" id="2277">
+        <title>Mantener el footer abajo en tu página web con CSS Grid - YouTube</title>
+      </bookmark>
+      <bookmark href="https://www.youtube.com/shorts/ej9OpedGNpQ" id="2278">
+        <title>✅ TRUCO CSS - TEXTO RESPONSIVE SIN MEDIAQUERIES - YouTube</title>
+      </bookmark>
+      <bookmark href="https://www.youtube.com/watch?v=6ixtdGW8p9A" id="2279">
+        <title>SASS VS. LESS - YouTube</title>
+      </bookmark>
+      <bookmark href="https://www.youtube.com/watch?v=uhvKSTQd06k" id="2280">
+        <title>QUÉ ES SASS: VENTAJAS, DESVENTAJAS Y EJEMPLOS DE DESARROLLO - YouTube</title>
+      </bookmark>
+      <bookmark href="https://www.youtube.com/watch?v=BtiiM3jeb_c" id="2281">
+        <title>Aprende SASS en 15 Minutos 📔 - YouTube</title>
+      </bookmark>
+      <bookmark href="https://utpvirtual.zoom.us/rec/play/BmSE-q43zLY685vg7VUm8UDiZoN-B5XIW7k1GzLyofhnVs7X2W_zLLr0lPmpi69VJPfAauQVpaP3DPVY.lGmYD3focNd1nWyp" id="2282">
+        <title>HOJAS DE ESTILO EN CASCADA AVA (44473) ( Semana 7 ) -Jueves - Zoom</title>
+      </bookmark>
+      <bookmark href="https://www.jc-mouse.net/" id="2283">
+        <title>jc-mouse.net | Desarrollo de Software</title>
+      </bookmark>
+      <bookmark href="https://www.aplicaciones.info/index.html" id="2284">
+        <title>https://www.aplicaciones.info/index.html</title>
+      </bookmark>
+      <bookmark href="https://catalyst.tailwindui.com/docs" id="2285">
+        <title>Getting started - Catalyst UI Kit for Tailwind CSS</title>
+      </bookmark>
+      <bookmark href="https://www.youtube.com/watch?v=7hHUnYDr9kQ" id="2286">
+        <title>Aprende Tailwind CSS en 10 minutos // Qué es Tailwind y cómo puedes usarlo en tus aplicaciones - YouTube</title>
+      </bookmark>
+      <bookmark href="https://693ac17f473f52b6c1d1614d--fastidious-gumdrop-5fbbfa.netlify.app/" id="2287">
+        <title>Aplicaciones Didácticas - 20º Aniversario</title>
+      </bookmark>
+      <bookmark href="https://kevinsalazar.pe/" id="2288">
+        <title>Kevin Salazar Ruiz | Software Engineer &amp; UX/UI Product Designer</title>
+      </bookmark>
+    </folder>
+    <folder id="2242">
+      <title>LGE</title>
+      <bookmark href="https://www.belbin.es/" id="2289">
+        <title>Belbin | Equipos de alto rendimiento</title>
+      </bookmark>
+      <bookmark href="https://habilidadsocial.com/test-de-habilidades-sociales/" id="2290">
+        <title>Test de Habilidades Sociales</title>
+      </bookmark>
+    </folder>
+  </folder>
+  <folder id="2211">
+    <title>6to Ciclo - Verano</title>
+    <folder id="2243">
+      <title>Prototipado</title>
+      <bookmark href="https://www.smashingmagazine.com/2017/10/storyboarding-ux-design/" id="2291">
+        <title>The Role Of Storyboarding In UX Design — Smashing Magazine</title>
+      </bookmark>
+      <bookmark href="https://clinicalaluz.pe/" id="2292">
+        <title>Clínica La Luz – Clínica peruana con más de 30 especialidades médicas</title>
+      </bookmark>
+      <bookmark href="https://www.figma.com/board/qm9zTmIsDi8NTY4sv3cQXD/SolucionesApiWeb--Copy-?node-id=0-1&amp;p=f&amp;t=8huD1aSFuDlsZuMu-0" id="2293">
+        <title>SolucionesApiWeb (Copy) – FigJam</title>
+      </bookmark>
+      <bookmark href="https://www.figma.com/design/OphYMK2b0WDPIYtwpmCrqC/Untitled?node-id=1-967&amp;p=f" id="2294">
+        <title>Untitled – Figma</title>
+      </bookmark>
+      <bookmark href="https://www.youtube.com/watch?v=oMmig6-yvms" id="2295">
+        <title>UI/UX Design | Creating High-Fidelity Wireframes In Figma - YouTube</title>
+      </bookmark>
+      <bookmark href="https://www.youtube.com/watch?v=bnoPAezI6cw" id="2296">
+        <title>Tutorial de Figma: Domina los componentes y variantes de Figma en 20 minutos (Guía para principia... - YouTube</title>
+      </bookmark>
+      <bookmark href="https://www.youtube.com/watch?v=WfijDKxzLac" id="2297">
+        <title>Cómo crear un conjunto de componentes en Figma (Guía completa de 2026) - YouTube</title>
+      </bookmark>
+    </folder>
+    <folder id="2244">
+      <title>JSA</title>
+      <bookmark href="https://teams.microsoft.com/v2/" id="2298">
+        <title>Chat | UTP-25-2-JSA-44474 | Microsoft Teams</title>
+      </bookmark>
+      <bookmark href="https://getbootstrap.com/docs/3.3/getting-started/" id="2299">
+        <title>Getting started · Bootstrap</title>
+      </bookmark>
+      <bookmark href="https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Operators/Spread_syntax" id="2300">
+        <title>Sintaxis Spread</title>
+      </bookmark>
+      <bookmark href="https://desarrolloweb.com/articulos/operador-spread-es6.html" id="2301">
+        <title>Operador spread (de propagación) en Javascript ES6</title>
+      </bookmark>
+      <bookmark href="https://www.w3schools.com/js/js_strings.asp" id="2302">
+        <title>JavaScript Strings</title>
+      </bookmark>
+      <bookmark href="https://developer.mozilla.org/es/docs/Web/JavaScript/Guide/Data_structures" id="2303">
+        <title>Tipos de datos y estructuras en JavaScript - JavaScript | MDN</title>
+      </bookmark>
+      <bookmark href="https://www.youtube.com/watch?v=CwtB1_1qUCI" id="2304">
+        <title>Instalación y configuración de Node.js + TypeScript | Ejercicio Demo - YouTube</title>
+      </bookmark>
+      <bookmark href="https://elibro.net/es/lc/utpbiblio/titulos/281446" id="2305">
+        <title>utpbiblio - El gran libro de Angular</title>
+      </bookmark>
+      <bookmark href="https://www.alphaeditorialcloud.com/reader/javascript-guia-completa?location=93" id="2306">
+        <title>JavaScript Guía completa - Alpha CLOUD</title>
+      </bookmark>
+      <bookmark href="https://react-bootstrap.github.io/" id="2307">
+        <title>React Bootstrap | React Bootstrap</title>
+      </bookmark>
+      <bookmark href="https://vuejs.org/guide/quick-start.html" id="2308">
+        <title>Quick Start | Vue.js</title>
+      </bookmark>
+      <bookmark href="https://mockapi.io/" id="2309">
+        <title>mockAPI</title>
+      </bookmark>
+      <bookmark href="https://es.stackoverflow.com/questions/218426/falta-la-cabecera-cors-access-control-allow-origin" id="2310">
+        <title>web - Falta la cabecera CORS &apos;Access-Control-Allow-Origin&apos; - Stack Overflow en español</title>
+      </bookmark>
+      <bookmark href="https://rubenr.dev/es/errores-cors-vite-vue/" id="2311">
+        <title>CORS y Vite: Solución a los problemas de CORS en local y desplegando con Netlify | Rubén Rodríguez</title>
+      </bookmark>
+      <bookmark href="https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Number/isSafeInteger" id="2312">
+        <title>Number.isSafeInteger() - JavaScript | MDN</title>
+      </bookmark>
+      <bookmark href="https://docs.culqi.com/es/documentacion/pagos-online/tarjetas-de-prueba" id="2313">
+        <title>Tarjetas de Prueba | Documentación</title>
+      </bookmark>
+      <bookmark href="https://docs.angular.lat/guide/forms/reactive-forms" id="2314">
+        <title>Formularios reactivos • Angular</title>
+      </bookmark>
+      <bookmark href="https://lenguajejs.com/react/componentes/hooks/" id="2315">
+        <title>¿Qué son los hooks? - Javascript en español</title>
+      </bookmark>
+      <bookmark href="https://www.youtube.com/watch?v=AzhzqRZJOak" id="2316">
+        <title>Integrar php con pasarela de pago culqi - YouTube</title>
+      </bookmark>
+      <bookmark href="https://www.youtube.com/watch?v=jPiv3thM7Kg" id="2317">
+        <title>Implementar Culqi en Nextjs/React - Typescript - YouTube</title>
+      </bookmark>
+      <bookmark href="https://www.youtube.com/shorts/uPZX1wZOK4U" id="2318">
+        <title>React y Next.js en 2025_ ¡No lo aprendas así! - YouTube</title>
+      </bookmark>
+    </folder>
+  </folder>
+  <folder id="5095">
+    <title>ITD</title>
+    <bookmark href="https://www.ehrinpractice.com/ehr-cost-and-budget-guide.html" id="5096">
+      <title>How much EHR costs and how to set your budget</title>
+    </bookmark>
+    <bookmark href="https://www.tutorialspoint.com/solidity/index.htm" id="5105">
+      <title>Solidity Tutorial</title>
+    </bookmark>
+    <bookmark href="https://www.dappuniversity.com/articles/solidity-tutorial" id="5106">
+      <title>Solidity for Beginners · Smart Contract Development Crash Course | Dapp University</title>
+    </bookmark>
+    <bookmark href="https://www.tutorialspoint.com/solidity/solidity_quick_guide.htm" id="5107">
+      <title>Solidity - Quick Guide</title>
+    </bookmark>
+    <bookmark href="https://www.neoguias.com/tutorial-wallet-multifirma-solidity/" id="5108">
+      <title>Cómo crear una Wallet Multifirma con Solidity y React | Neoguias</title>
+    </bookmark>
+    <bookmark href="https://ietsi.essalud.gob.pe/petitorios-listados/" id="5109">
+      <title>Petitorios Listados – IETSI</title>
+    </bookmark>
+    <bookmark href="https://dyaku.minsa.gob.pe/guides/index.html" id="5110">
+      <title>HL7.FHIR.PE.COREPE\Home - FHIR v4.0.1</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/results?search_query=jenkins+%2B+unity" id="5122">
+      <title>jenkins + unity - YouTube</title>
+    </bookmark>
+    <bookmark href="https://www.ayudablockchain.dev/blog/entorno-desarrollo-blockchain-hardhat/" id="5126">
+      <title>Entorno desarrollo blockchain - Hardhat | AyudaBlockchain</title>
+    </bookmark>
+    <bookmark href="https://www.baeldung.com/web3j" id="5127">
+      <title>Lightweight Ethereum clients Using Web3j | Baeldung</title>
+    </bookmark>
+    <bookmark href="https://www.izertis.com/es/w/blog/como-arrancar-y-testear-tu-propia-blockchain-con-ganache" id="5129">
+      <title>Cómo arrancar y testear tu propia Blockchain con Ganache - Izertis</title>
+    </bookmark>
+  </folder>
+  <folder id="5116">
+    <title>DWI</title>
+    <bookmark href="https://angular.dev/essentials/signals" id="5115">
+      <title>Reactivity with signals • Angular</title>
+    </bookmark>
+    <bookmark href="https://sqlpey.com/angular/fixing-angular-ng8002-formgroup-error/" id="5118">
+      <title>Fixing Angular NG8002 Error: &apos;formGroup&apos; Not a Known …</title>
+    </bookmark>
+    <bookmark href="https://www.concretepage.com/questions/938" id="5119">
+      <title>TS2729: Property &apos;formBuilder&apos; is used before its initialization</title>
+    </bookmark>
+    <bookmark href="https://angular.dev/tutorials/first-app/01-hello-world" id="5120">
+      <title>Hello world! • Angular</title>
+    </bookmark>
+    <bookmark href="https://openlibrary.org/" id="5124">
+      <title>Bienvenido a la Biblioteca Abierta | Biblioteca Abierta</title>
+    </bookmark>
+    <bookmark href="https://angular.dev/tutorials/first-app/12-forms" id="5125">
+      <title>Integrate Angular forms • Angular</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=WmDPTqlBAX0" id="5132">
+      <title>🚀 Cómo dockerizar una aplicación con Spring Boot 🐳 - YouTube</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=0RKpf3rK57I" id="5133">
+      <title>Hugo en 100 segundos - YouTube</title>
+    </bookmark>
+    <bookmark href="https://angular.dev/tutorials/first-app/13-search" id="5135">
+      <title>Add search functionality • Angular</title>
+    </bookmark>
+  </folder>
+  <folder id="5130">
+    <title>DIAE</title>
+    <bookmark href="https://www.youtube.com/watch?v=Ei5QnJlGVxc" id="5131">
+      <title>Reemplacé n8n, Zapier y Make con una herramienta gratuita. - YouTube</title>
+    </bookmark>
+  </folder>
 </folder>
 <folder id="3271">
   <title>Cocina</title>
@@ -15487,6 +15487,9 @@
   <title></title>
 </bookmark>
 <bookmark href="https://separator.floccus.org/vertical.html?id=482900" id="5174">
+  <title></title>
+</bookmark>
+<bookmark href="https://separator.floccus.org/vertical.html?id=234941" id="5176">
   <title></title>
 </bookmark>
 </xbel>
