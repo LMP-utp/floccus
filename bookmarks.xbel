@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :5177: for Floccus bookmark sync browser extension -->
+<!--- highestId :5178: for Floccus bookmark sync browser extension -->
 
 <folder id="2">
   <title>ST y FT y VD</title>
@@ -6062,6 +6062,9 @@
 </folder>
 <folder id="6">
   <title>Ingles &amp; Utils</title>
+  <folder id="5178">
+    <title>Foto y Video</title>
+  </folder>
   <folder id="47">
     <title>Bootcamp</title>
     <bookmark href="https://duckduckgo.com/?q=aws+Terraform+githubaction&amp;t=ffab&amp;atb=v303-1&amp;ia=web" id="324">
