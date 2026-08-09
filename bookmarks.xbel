@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :5178: for Floccus bookmark sync browser extension -->
+<!--- highestId :5179: for Floccus bookmark sync browser extension -->
 
 <folder id="2">
   <title>ST y FT y VD</title>
@@ -6064,6 +6064,9 @@
   <title>Ingles &amp; Utils</title>
   <folder id="5178">
     <title>Foto y Video</title>
+    <bookmark href="https://www.youtube.com/watch?v=X4XPSO2wyAc" id="5179">
+      <title>GIMP - How to Change the DPI of an Image (with or without changing size of image) - YouTube</title>
+    </bookmark>
   </folder>
   <folder id="47">
     <title>Bootcamp</title>
