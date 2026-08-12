@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :5181: for Floccus bookmark sync browser extension -->
+<!--- highestId :5182: for Floccus bookmark sync browser extension -->
 
 <folder id="2">
   <title>ST y FT y VD</title>
@@ -6741,6 +6741,9 @@
     <title>IntNEGOCIOS</title>
     <bookmark href="https://docs.google.com/document/d/151nBgztsxYefntU2xE1cBp7n_6WsaeX3OJU7JxGLUig/edit?tab=t.0" id="5181">
       <title>Actividad_Semana1 - Documentos de Google</title>
+    </bookmark>
+    <bookmark href="https://techeraperu.com/acerca-de/" id="5182">
+      <title>Nosotros - TechEra</title>
     </bookmark>
   </folder>
   <folder id="2212">
