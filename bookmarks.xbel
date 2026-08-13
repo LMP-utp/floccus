@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :5182: for Floccus bookmark sync browser extension -->
+<!--- highestId :5183: for Floccus bookmark sync browser extension -->
 
 <folder id="2">
   <title>ST y FT y VD</title>
@@ -6737,6 +6737,9 @@
   <bookmark href="https://web.whatsapp.com/" id="2208">
     <title>WhatsApp Web</title>
   </bookmark>
+  <folder id="5183">
+    <title>Sist Inf Emp</title>
+  </folder>
   <folder id="5180">
     <title>IntNEGOCIOS</title>
     <bookmark href="https://docs.google.com/document/d/151nBgztsxYefntU2xE1cBp7n_6WsaeX3OJU7JxGLUig/edit?tab=t.0" id="5181">
