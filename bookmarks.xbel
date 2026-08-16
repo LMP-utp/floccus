@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :5185: for Floccus bookmark sync browser extension -->
+<!--- highestId :5186: for Floccus bookmark sync browser extension -->
 
 <folder id="2">
   <title>ST y FT y VD</title>
@@ -6745,6 +6745,9 @@
     <bookmark href="https://www.facebook.com/policlinicoNSE" id="5185">
       <title>Policlinico Parroquial Nuestra Señora de la Esperanza | Nueva Esperanza | Facebook</title>
     </bookmark>
+    <folder id="5186">
+      <title>Nueva carpeta</title>
+    </folder>
   </folder>
   <folder id="5180">
     <title>IntNEGOCIOS</title>
