@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :5184: for Floccus bookmark sync browser extension -->
+<!--- highestId :5185: for Floccus bookmark sync browser extension -->
 
 <folder id="2">
   <title>ST y FT y VD</title>
@@ -6741,6 +6741,9 @@
     <title>Sist Inf Emp</title>
     <bookmark href="https://elibro.net/es/ereader/utpbiblio/42929" id="5184">
       <title>Sistemas de información en la Empresa</title>
+    </bookmark>
+    <bookmark href="https://www.facebook.com/policlinicoNSE" id="5185">
+      <title>Policlinico Parroquial Nuestra Señora de la Esperanza | Nueva Esperanza | Facebook</title>
     </bookmark>
   </folder>
   <folder id="5180">
