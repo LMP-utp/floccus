@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :5190: for Floccus bookmark sync browser extension -->
+<!--- highestId :5191: for Floccus bookmark sync browser extension -->
 
 <folder id="2">
   <title>ST y FT y VD</title>
@@ -6072,6 +6072,9 @@
     </bookmark>
     <bookmark href="https://chat.qwen.ai/" id="5190">
       <title>Qwen Studio</title>
+    </bookmark>
+    <bookmark href="https://profevictorcampoblanco.notion.site/Taller-Im-genes-IA-2026-3bf5fb37f61c80b084b5c50206211fe9" id="5191">
+      <title>Taller Imágenes IA 2026</title>
     </bookmark>
   </folder>
   <folder id="5178">
