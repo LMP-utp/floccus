@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :5188: for Floccus bookmark sync browser extension -->
+<!--- highestId :5190: for Floccus bookmark sync browser extension -->
 
 <folder id="2">
   <title>ST y FT y VD</title>
@@ -6066,6 +6066,12 @@
     <title>IA</title>
     <bookmark href="https://comfy.org/download/" id="5188">
       <title>Download Comfy Desktop - Run AI on Your Hardware</title>
+    </bookmark>
+    <bookmark href="https://alternativeto.net/software/stable-diffusion-xl/" id="5189">
+      <title>Stable Diffusion Alternatives: Top 12 AI Image Generators &amp; Similar Apps | AlternativeTo</title>
+    </bookmark>
+    <bookmark href="https://chat.qwen.ai/" id="5190">
+      <title>Qwen Studio</title>
     </bookmark>
   </folder>
   <folder id="5178">
