@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :5194: for Floccus bookmark sync browser extension -->
+<!--- highestId :5195: for Floccus bookmark sync browser extension -->
 
 <folder id="2">
   <title>ST y FT y VD</title>
@@ -10753,6 +10753,9 @@
   </bookmark>
   <bookmark href="https://mailamericas.com/" id="5087">
     <title>MailAmericas - Soluciones logísticas cross-border para e-commerce global</title>
+  </bookmark>
+  <bookmark href="https://www.amazon.com/-/es/MSI-RTX-3050-LP-6G/dp/B0CTJZCJH1?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&amp;dib=eyJ2IjoiMSJ9.sn0vR_miPsJJSzTLmkTW20GQiIQm0688zk6sYVaKhQOFHthEF3Jx5yuGzvhexswTBVG9vILLVNbMPJhidggPnmfk9vonb_p8sTu-xald9f2pAxmXDUc0r8yPtultnJafgjhGrb1VFYqIqUVO47sHYv93wjk665rFpeoE2I_uhiePKTIpevswdd6sIh9mV_rhhWfN1WhRrP5x_ils8mcP9Dv-ISyKG4Te6dRs96sK_Uo.U_D-uliByRqB4AdpuayVw2jxjOadYr4YGDy2HV2mjS8&amp;dib_tag=se&amp;keywords=Yestion+RTX+3050+LP&amp;qid=1787387847&amp;sr=8-1" id="5195">
+    <title>Amazon.com: MSI Gaming RTX 3050 LP 6G OC Tarjeta gráfica (NVIDIA RTX 3050, 96-Bit, Boost Clock: 1492 MHz, 6GB GDDR6 14 Gbps, HDMI/DP, Arquitectura Ampere) : Electrónica</title>
   </bookmark>
 </folder>
 <folder id="3487">
