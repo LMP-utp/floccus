@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :5196: for Floccus bookmark sync browser extension -->
+<!--- highestId :5197: for Floccus bookmark sync browser extension -->
 
 <folder id="2">
   <title>ST y FT y VD</title>
@@ -6729,6 +6729,15 @@
     </bookmark>
   </folder>
 </folder>
+<folder id="5197">
+  <title>IA</title>
+  <bookmark href="https://notebook.google.com/" id="5196">
+    <title>Gemini Notebook</title>
+  </bookmark>
+  <bookmark href="https://gemini.google.com/app?hl=es" id="2213">
+    <title>Google Gemini</title>
+  </bookmark>
+</folder>
 <folder id="2201">
   <title>UTP</title>
   <bookmark href="https://portal.utp.edu.pe/inicio" id="2202">
@@ -10034,9 +10043,6 @@
       </folder>
     </folder>
   </folder>
-  <bookmark href="https://gemini.google.com/app?hl=es" id="2213">
-    <title>Google Gemini</title>
-  </bookmark>
   <bookmark href="https://calcular.me/asignar-al-azar" id="2214">
     <title>Calcular.me: Asignar tareas o temas al azar</title>
   </bookmark>
@@ -10102,9 +10108,6 @@
   </bookmark>
   <bookmark href="https://www.acm.org/education/curricula-recommendations" id="5134">
     <title>Curricula Recommendations</title>
-  </bookmark>
-  <bookmark href="https://notebook.google.com/" id="5196">
-    <title>Gemini Notebook</title>
   </bookmark>
 </folder>
 <folder id="3271">
