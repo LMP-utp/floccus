@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :5198: for Floccus bookmark sync browser extension -->
+<!--- highestId :5199: for Floccus bookmark sync browser extension -->
 
 <folder id="2">
   <title>ST y FT y VD</title>
@@ -6771,6 +6771,9 @@
     </bookmark>
     <bookmark href="https://www.sciencedirect.com/org/science/article/pii/S1546221821002071" id="5194">
       <title>Efficient Joint Key Authentication Model in E-Healthcare - ScienceDirect</title>
+    </bookmark>
+    <bookmark href="https://www.scimagojr.com/" id="5199">
+      <title>Scimago Journal &amp; Country Rank</title>
     </bookmark>
   </folder>
   <folder id="5183">
