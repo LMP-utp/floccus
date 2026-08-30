@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :5204: for Floccus bookmark sync browser extension -->
+<!--- highestId :5205: for Floccus bookmark sync browser extension -->
 
 <folder id="2">
   <title>ST y FT y VD</title>
@@ -3198,6 +3198,9 @@
     <title>Fields of Mistria</title>
     <bookmark href="https://urgametips.com/fields-of-mistria-legendary-fish/" id="5204">
       <title>Fields of Mistria Legendary Fish: All Locations and Conditions</title>
+    </bookmark>
+    <bookmark href="https://fieldsofmistria.wiki.gg/wiki/Fishing" id="5205">
+      <title>Fishing - Fields of Mistria Wiki</title>
     </bookmark>
   </folder>
   <folder id="5111">
