@@ -6073,9 +6073,6 @@
   <title>Ingles &amp; Utils</title>
   <folder id="5187">
     <title>IA</title>
-    <bookmark href="https://comfy.org/download/" id="5188">
-      <title>Download Comfy Desktop - Run AI on Your Hardware</title>
-    </bookmark>
     <bookmark href="https://alternativeto.net/software/stable-diffusion-xl/" id="5189">
       <title>Stable Diffusion Alternatives: Top 12 AI Image Generators &amp; Similar Apps | AlternativeTo</title>
     </bookmark>
@@ -6754,6 +6751,9 @@
   </bookmark>
   <bookmark href="https://gamma.app/create" id="5198">
     <title>Crear con IA | Gamma</title>
+  </bookmark>
+  <bookmark href="https://comfy.org/download/" id="5188">
+    <title>Download Comfy Desktop - Run AI on Your Hardware</title>
   </bookmark>
 </folder>
 <folder id="2201">
