@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :5206: for Floccus bookmark sync browser extension -->
+<!--- highestId :5207: for Floccus bookmark sync browser extension -->
 
 <folder id="2">
   <title>ST y FT y VD</title>
@@ -6085,6 +6085,9 @@
     <bookmark href="https://profevictorcampoblanco.notion.site/Taller-Im-genes-IA-2026-3bf5fb37f61c80b084b5c50206211fe9" id="5191">
       <title>Taller Imágenes IA 2026</title>
     </bookmark>
+    <bookmark href="https://www.iloveimg.com/es" id="5207">
+      <title>iLoveIMG | Herramientas online para editar imágenes</title>
+    </bookmark>
   </folder>
   <folder id="5178">
     <title>Foto y Video</title>
@@ -6738,11 +6741,11 @@
     </bookmark>
   </folder>
 </folder>
-<folder id="5206">
-  <title>ImagenesIA</title>
-</folder>
 <folder id="5197">
   <title>IA</title>
+  <folder id="5206">
+    <title>ImagenesIA</title>
+  </folder>
   <bookmark href="https://notebook.google.com/" id="5196">
     <title>Gemini Notebook</title>
   </bookmark>
