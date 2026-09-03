@@ -6773,6 +6773,9 @@
   <bookmark href="https://portal.utp.edu.pe/inicio" id="2202">
     <title>UTP+ Portal | &quot;Universidad Tecnológica del Peru&quot;</title>
   </bookmark>
+  <bookmark href="https://repositorio.utp.edu.pe/" id="5211">
+    <title>Dspace</title>
+  </bookmark>
   <bookmark href="https://matricula.utp.edu.pe/" id="2203">
     <title>Matrícula UTP</title>
   </bookmark>
@@ -6809,9 +6812,6 @@
       <title>IPv8 — el protocolo que resuelve el agotamiento de IPv4</title>
     </bookmark>
   </folder>
-  <bookmark href="https://repositorio.utp.edu.pe/" id="5211">
-    <title>Dspace</title>
-  </bookmark>
   <folder id="5183">
     <title>Sist Inf Emp</title>
     <bookmark href="https://elibro.net/es/ereader/utpbiblio/42929" id="5184">
