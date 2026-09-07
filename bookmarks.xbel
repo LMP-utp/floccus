@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :5211: for Floccus bookmark sync browser extension -->
+<!--- highestId :5212: for Floccus bookmark sync browser extension -->
 
 <folder id="2">
   <title>ST y FT y VD</title>
@@ -6766,6 +6766,9 @@
   </bookmark>
   <bookmark href="https://stitch.withgoogle.com/" id="5210">
     <title>Stitch - Design with AI</title>
+  </bookmark>
+  <bookmark href="https://civitai.com/" id="5212">
+    <title>Civitai | Discover and Create AI Art</title>
   </bookmark>
 </folder>
 <folder id="2201">
