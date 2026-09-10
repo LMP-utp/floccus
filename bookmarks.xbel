@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :5220: for Floccus bookmark sync browser extension -->
+<!--- highestId :5221: for Floccus bookmark sync browser extension -->
 
 <folder id="2">
   <title>ST y FT y VD</title>
@@ -10736,6 +10736,9 @@
 </folder>
 <folder id="3459">
   <title>Compras</title>
+  <folder id="5221">
+    <title>Internet</title>
+  </folder>
   <bookmark href="http://articulo.mercadolibre.com.pe/MPE-405693177-video-portero-a-colores-con-telefono-incorporarado-commax-_JM" id="3460">
     <title>Video Portero A Colores Con Telefono Incorporarado Commax - S/. 450,00 en MercadoLibre</title>
   </bookmark>
