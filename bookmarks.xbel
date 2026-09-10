@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :5219: for Floccus bookmark sync browser extension -->
+<!--- highestId :5220: for Floccus bookmark sync browser extension -->
 
 <folder id="2">
   <title>ST y FT y VD</title>
@@ -6784,6 +6784,9 @@
   </bookmark>
   <bookmark href="https://civitai.com/" id="5212">
     <title>Civitai | Discover and Create AI Art</title>
+  </bookmark>
+  <bookmark href="https://www.mifibra.pe/cambiate-a-mi-fibra-lima/" id="5220">
+    <title>Cambiate a Mi Fibra Lima - MiFibra Perú | Internet de Fibra Óptica Rápido y Estable</title>
   </bookmark>
 </folder>
 <folder id="2201">
