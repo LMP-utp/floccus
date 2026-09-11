@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :5224: for Floccus bookmark sync browser extension -->
+<!--- highestId :5225: for Floccus bookmark sync browser extension -->
 
 <folder id="2">
   <title>ST y FT y VD</title>
@@ -6204,6 +6204,9 @@
     </bookmark>
     <bookmark href="https://localhorse.net/article/uso-de-object-en-scala" id="5224">
       <title>Uso de object en Scala | localhorse.net</title>
+    </bookmark>
+    <bookmark href="https://alvinalexander.com/scala/how-to-convert-multiline-string-to-array-seq/" id="5225">
+      <title>How to convert a multiline Scala multiline String to an Array (or Seq) | alvinalexander.com</title>
     </bookmark>
   </folder>
   <folder id="1969">
