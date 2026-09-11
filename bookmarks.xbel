@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :5222: for Floccus bookmark sync browser extension -->
+<!--- highestId :5223: for Floccus bookmark sync browser extension -->
 
 <folder id="2">
   <title>ST y FT y VD</title>
@@ -6198,6 +6198,9 @@
     <title>Scala</title>
     <bookmark href="https://code.tutsplus.com/es/de-cero-a-hola-mundo-en-scala--net-31894a" id="2093">
       <title>De cero a &quot;Hola mundo&quot; en Scala | Envato Tuts+</title>
+    </bookmark>
+    <bookmark href="https://learntutorials.net/es/scala/topic/2047/clases-y-objetos" id="5223">
+      <title>Scala Language =&gt; Clases y objetos</title>
     </bookmark>
   </folder>
   <folder id="1969">
