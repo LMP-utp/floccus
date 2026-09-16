@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :5227: for Floccus bookmark sync browser extension -->
+<!--- highestId :5228: for Floccus bookmark sync browser extension -->
 
 <folder id="2">
   <title>ST y FT y VD</title>
@@ -6799,6 +6799,9 @@
   </bookmark>
   <bookmark href="https://flow.google.com/about" id="5227">
     <title>Google Flow: Estudio creativo de IA para videos, imágenes y herramientas personalizadas</title>
+  </bookmark>
+  <bookmark href="https://www.xprivo.com/" id="5228">
+    <title>xPrivo - Private AI Chat Assistant | Anonymous &amp; Open Source</title>
   </bookmark>
 </folder>
 <folder id="2201">
