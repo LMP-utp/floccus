@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :5228: for Floccus bookmark sync browser extension -->
+<!--- highestId :5229: for Floccus bookmark sync browser extension -->
 
 <folder id="2">
   <title>ST y FT y VD</title>
@@ -34,6 +34,9 @@
   </bookmark>
   <bookmark href="https://dirpy.com/" id="16">
     <title>📼 Dirpy | Internet DVR</title>
+  </bookmark>
+  <bookmark href="https://www.google.com/maps/place/C.+Carlos+Cueto+Fernandini+Mz.D+-+Lt.6,+San+Juan+de+Miraflores+15801,+Per%C3%BA/@-12.1628641,-76.9805948,276m/data=!3m2!1e3!4b1!4m14!1m7!3m6!1s0x9105c8db55305f2f:0xdc92d25b799a6274!2sSuperintendencia+Nacional+de+Migraciones!8m2!3d-12.0596508!4d-77.0497276!16s%2Fg%2F1tjxgqjc!3m5!1s0x9105b84f6b2b363f:0xb6e675a3e8df2aad!8m2!3d-12.1628654!4d-76.9799511!16s%2Fg%2F11yz6d99py?hl=es-PE&amp;entry=ttu&amp;g_ep=EgoyMDI2MDkxNC4wIKXMDSoASAFQAw%3D%3D" id="5229">
+    <title>C. Carlos Cueto Fernandini Mz.D - Lt.6 - Google Maps</title>
   </bookmark>
 </folder>
 <folder id="3">
