@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :5229: for Floccus bookmark sync browser extension -->
+<!--- highestId :5230: for Floccus bookmark sync browser extension -->
 
 <folder id="2">
   <title>ST y FT y VD</title>
@@ -10519,6 +10519,9 @@
   </bookmark>
   <bookmark href="https://www3.animeflv.net/ver/kyuukyoku-shinka-shita-full-dive-rpg-ga-genjitsu-yori-mo-kusoge-dattara-2" id="3380">
     <title>Kyuukyoku Shinka shita Full Dive RPG ga Genjitsu yori mo Kusoge Dattara Episodio 2 Sub Español - AnimeFLV</title>
+  </bookmark>
+  <bookmark href="https://zonatmo.org/" id="5230">
+    <title>ZonaTMO — Leer Manga Online en Español Gratis</title>
   </bookmark>
 </folder>
 <folder id="3382">
