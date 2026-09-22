@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :5236: for Floccus bookmark sync browser extension -->
+<!--- highestId :5237: for Floccus bookmark sync browser extension -->
 
 <folder id="2">
   <title>ST y FT y VD</title>
@@ -6814,6 +6814,9 @@
   </bookmark>
   <bookmark href="https://elevenlabs.io/" id="5236">
     <title>Free AI Voice Generator &amp; Voice Agents Platform | ElevenLabs</title>
+  </bookmark>
+  <bookmark href="https://www.capcut.com/my-edit?from_page=landing_page" id="5237">
+    <title>Mis proyectos | Editor de videos todo en uno｜CapCut</title>
   </bookmark>
 </folder>
 <folder id="2201">
