@@ -6782,6 +6782,12 @@
 </folder>
 <folder id="5197">
   <title>IA</title>
+  <bookmark href="https://chatgpt.com/" id="2220">
+    <title>ChatGPT</title>
+  </bookmark>
+  <bookmark href="https://gemini.google.com/app?hl=es" id="2213">
+    <title>Google Gemini</title>
+  </bookmark>
   <bookmark href="https://claude.ai/login?returnTo=%2F%3F" id="2224">
     <title>Claude</title>
   </bookmark>
@@ -10202,12 +10208,6 @@
       <title>Reemplacé n8n, Zapier y Make con una herramienta gratuita. - YouTube</title>
     </bookmark>
   </folder>
-  <bookmark href="https://gemini.google.com/app?hl=es" id="2213">
-    <title>Google Gemini</title>
-  </bookmark>
-  <bookmark href="https://chatgpt.com/" id="2220">
-    <title>ChatGPT</title>
-  </bookmark>
 </folder>
 <folder id="3271">
   <title>Cocina</title>
