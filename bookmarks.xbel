@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :5240: for Floccus bookmark sync browser extension -->
+<!--- highestId :5241: for Floccus bookmark sync browser extension -->
 
 <folder id="2">
   <title>ST y FT y VD</title>
@@ -6732,6 +6732,9 @@
     <title>Python</title>
     <bookmark href="https://www.youtube.com/watch?v=G8t7gMgY5JM&amp;list=PLg9145ptuAij_8zYgMeqwOV8ABwRYLuR3" id="2168">
       <title>CURSO DE NUMPY BASICO 🐍 PRESENTACION - YouTube</title>
+    </bookmark>
+    <bookmark href="https://gist.github.com/pourmand1376/aa6a8bc4fddda31fecbdf73b2535af21" id="5241">
+      <title>Pandas, Numpy, Python Cheatsheet · GitHub</title>
     </bookmark>
   </folder>
   <bookmark href="https://www.youtube.com/@DevGuardianCode/videos" id="2015">
