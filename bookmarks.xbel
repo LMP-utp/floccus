@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :5245: for Floccus bookmark sync browser extension -->
+<!--- highestId :5246: for Floccus bookmark sync browser extension -->
 
 <folder id="2">
   <title>ST y FT y VD</title>
@@ -6832,6 +6832,9 @@
   </bookmark>
   <bookmark href="https://www.capcut.com/my-edit?from_page=landing_page" id="5237">
     <title>Mis proyectos | Editor de videos todo en uno｜CapCut</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=pv3A38NnJSk" id="5246">
+    <title>Cómo programar con agentes de IA sin empezar de cero cada día - YouTube</title>
   </bookmark>
 </folder>
 <folder id="2201">
