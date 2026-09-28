@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :5247: for Floccus bookmark sync browser extension -->
+<!--- highestId :5248: for Floccus bookmark sync browser extension -->
 
 <folder id="2">
   <title>ST y FT y VD</title>
@@ -10897,6 +10897,9 @@
   </bookmark>
   <bookmark href="https://www.youtube.com/watch?v=YiSTV99y3Nw" id="5238">
     <title>Las Laptops de $250 de China Están Destruyendo un Negocio de $200 Mil Millones — Así lo Hacen - YouTube</title>
+  </bookmark>
+  <bookmark href="https://es.aliexpress.com/item/1005010280762138.html" id="5248">
+    <title>Localizador de cables FNIRSI LPM-10A, pantalla color 2.4, batería 1500mAh</title>
   </bookmark>
 </folder>
 <folder id="3487">
