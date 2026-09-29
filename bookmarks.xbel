@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :5249: for Floccus bookmark sync browser extension -->
+<!--- highestId :5250: for Floccus bookmark sync browser extension -->
 
 <folder id="2">
   <title>ST y FT y VD</title>
@@ -6101,11 +6101,14 @@
       <title>Hearthstone: Heroes of Warcraft - Página oficial</title>
     </bookmark>
   </folder>
-  <bookmark href="https://www.twitch.tv/jahir_gw2" id="603">
-    <title>jahir_gw2 - Twitch</title>
-  </bookmark>
   <bookmark href="https://www.youtube.com/watch?v=hoA9-v-rK6M" id="5247">
     <title>La MEJOR CONFIGURACIÓN de OBS para hacer DIRECTOS en TWITCH sin LAG ✅ - YouTube</title>
+  </bookmark>
+  <bookmark href="https://bitburner-official.github.io/" id="5250">
+    <title>Bitburner v3.0.1 (3162fd2)</title>
+  </bookmark>
+  <bookmark href="https://www.twitch.tv/jahir_gw2" id="603">
+    <title>jahir_gw2 - Twitch</title>
   </bookmark>
 </folder>
 <folder id="6">
