@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :5255: for Floccus bookmark sync browser extension -->
+<!--- highestId :5256: for Floccus bookmark sync browser extension -->
 
 <folder id="2">
   <title>ST y FT y VD</title>
@@ -6951,6 +6951,9 @@
     </bookmark>
     <bookmark href="https://www.youtube.com/watch?v=DhOnad-8oeA" id="5251">
       <title>Cómo Usar GEMINI en Power BI 💫 Automatiza tu Análisis de Datos - YouTube</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=vHBJN5FePmo" id="5256">
+      <title>Cómo crear una aplicación de Streamlit en minutos con Snowflake CoCo (sin necesidad de SQL) - YouTube</title>
     </bookmark>
   </folder>
   <folder id="2212">
