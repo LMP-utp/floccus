@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :5265: for Floccus bookmark sync browser extension -->
+<!--- highestId :5273: for Floccus bookmark sync browser extension -->
 
 <folder id="2">
   <title>ST y FT y VD</title>
@@ -15702,30 +15702,6 @@
     </bookmark>
   </folder>
 </folder>
-<bookmark href="https://separator.floccus.org/vertical.html?id=160385" id="5169">
-  <title></title>
-</bookmark>
-<bookmark href="https://separator.floccus.org/vertical.html?id=890400" id="5170">
-  <title></title>
-</bookmark>
-<bookmark href="https://separator.floccus.org/vertical.html?id=449491" id="5171">
-  <title></title>
-</bookmark>
-<bookmark href="https://separator.floccus.org/vertical.html?id=431554" id="5172">
-  <title></title>
-</bookmark>
-<bookmark href="https://separator.floccus.org/vertical.html?id=26738" id="5173">
-  <title></title>
-</bookmark>
-<bookmark href="https://separator.floccus.org/vertical.html?id=482900" id="5174">
-  <title></title>
-</bookmark>
-<bookmark href="https://separator.floccus.org/vertical.html?id=493595" id="5177">
-  <title></title>
-</bookmark>
-<bookmark href="https://separator.floccus.org/vertical.html?id=361780" id="5219">
-  <title></title>
-</bookmark>
 <bookmark href="https://separator.floccus.org/vertical.html?id=616887" id="5258">
   <title></title>
 </bookmark>
@@ -15748,6 +15724,30 @@
   <title></title>
 </bookmark>
 <bookmark href="https://separator.floccus.org/vertical.html?id=709826" id="5265">
+  <title></title>
+</bookmark>
+<bookmark href="https://separator.floccus.org/vertical.html?id=214011" id="5266">
+  <title></title>
+</bookmark>
+<bookmark href="https://separator.floccus.org/vertical.html?id=827061" id="5267">
+  <title></title>
+</bookmark>
+<bookmark href="https://separator.floccus.org/vertical.html?id=446212" id="5268">
+  <title></title>
+</bookmark>
+<bookmark href="https://separator.floccus.org/vertical.html?id=448227" id="5269">
+  <title></title>
+</bookmark>
+<bookmark href="https://separator.floccus.org/vertical.html?id=650398" id="5270">
+  <title></title>
+</bookmark>
+<bookmark href="https://separator.floccus.org/vertical.html?id=565837" id="5271">
+  <title></title>
+</bookmark>
+<bookmark href="https://separator.floccus.org/vertical.html?id=611672" id="5272">
+  <title></title>
+</bookmark>
+<bookmark href="https://separator.floccus.org/vertical.html?id=444099" id="5273">
   <title></title>
 </bookmark>
 </xbel>
