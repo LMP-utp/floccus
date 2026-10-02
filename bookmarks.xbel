@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :5275: for Floccus bookmark sync browser extension -->
+<!--- highestId :5292: for Floccus bookmark sync browser extension -->
 
 <folder id="2">
   <title>ST y FT y VD</title>
@@ -6930,6 +6930,9 @@
     </bookmark>
     <bookmark href="https://quietsignalslab.com/rag-assistant/docs/" id="5275">
       <title>Documentation · RAG Assistant Docs</title>
+    </bookmark>
+    <bookmark href="https://webofscience.zendesk.com/hc/en-us/articles/20016122409105-Search-Operators" id="5276">
+      <title>Search Operators – Web of Science</title>
     </bookmark>
   </folder>
   <folder id="5183">
@@ -15754,6 +15757,54 @@
   <title></title>
 </bookmark>
 <bookmark href="https://separator.floccus.org/vertical.html?id=444099" id="5273">
+  <title></title>
+</bookmark>
+<bookmark href="https://separator.floccus.org/vertical.html?id=160385" id="5277">
+  <title></title>
+</bookmark>
+<bookmark href="https://separator.floccus.org/vertical.html?id=890400" id="5278">
+  <title></title>
+</bookmark>
+<bookmark href="https://separator.floccus.org/vertical.html?id=449491" id="5279">
+  <title></title>
+</bookmark>
+<bookmark href="https://separator.floccus.org/vertical.html?id=431554" id="5280">
+  <title></title>
+</bookmark>
+<bookmark href="https://separator.floccus.org/vertical.html?id=26738" id="5281">
+  <title></title>
+</bookmark>
+<bookmark href="https://separator.floccus.org/vertical.html?id=482900" id="5282">
+  <title></title>
+</bookmark>
+<bookmark href="https://separator.floccus.org/vertical.html?id=493595" id="5283">
+  <title></title>
+</bookmark>
+<bookmark href="https://separator.floccus.org/vertical.html?id=361780" id="5284">
+  <title></title>
+</bookmark>
+<bookmark href="https://separator.floccus.org/vertical.html?id=269192" id="5285">
+  <title></title>
+</bookmark>
+<bookmark href="https://separator.floccus.org/vertical.html?id=743150" id="5286">
+  <title></title>
+</bookmark>
+<bookmark href="https://separator.floccus.org/vertical.html?id=179734" id="5287">
+  <title></title>
+</bookmark>
+<bookmark href="https://separator.floccus.org/vertical.html?id=515414" id="5288">
+  <title></title>
+</bookmark>
+<bookmark href="https://separator.floccus.org/vertical.html?id=601313" id="5289">
+  <title></title>
+</bookmark>
+<bookmark href="https://separator.floccus.org/vertical.html?id=391034" id="5290">
+  <title></title>
+</bookmark>
+<bookmark href="https://separator.floccus.org/vertical.html?id=992241" id="5291">
+  <title></title>
+</bookmark>
+<bookmark href="https://separator.floccus.org/vertical.html?id=711318" id="5292">
   <title></title>
 </bookmark>
 </xbel>
