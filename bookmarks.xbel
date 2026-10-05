@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :5310: for Floccus bookmark sync browser extension -->
+<!--- highestId :5311: for Floccus bookmark sync browser extension -->
 
 <folder id="2">
   <title>ST y FT y VD</title>
@@ -6972,6 +6972,9 @@
     </bookmark>
     <bookmark href="https://www.youtube.com/watch?v=bk5sWon4tnE" id="5310">
       <title>Cómo tener un servidor VPS gratis para siempre sin complicaciones - YouTube</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=7yFNDFsAOeo" id="5311">
+      <title>Consigue tu VPS gratis con 2 CPU y 12 GB de RAM (Paso a paso completo) - YouTube</title>
     </bookmark>
   </folder>
   <folder id="2212">
