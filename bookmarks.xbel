@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :5314: for Floccus bookmark sync browser extension -->
+<!--- highestId :5315: for Floccus bookmark sync browser extension -->
 
 <folder id="2">
   <title>ST y FT y VD</title>
@@ -6879,6 +6879,9 @@
     <title>TallerPowerBI</title>
     <bookmark href="https://www.youtube.com/watch?v=Jh9Ijmg-L7g" id="5314">
       <title>Power Query: Limpieza de Texto quitar caracteres no alfabéticos - YouTube</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=vpSkBV5vydg" id="5315">
+      <title>UTF-8, explicado de forma sencilla - YouTube</title>
     </bookmark>
   </folder>
   <folder id="5255">
