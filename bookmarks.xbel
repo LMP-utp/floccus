@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :5316: for Floccus bookmark sync browser extension -->
+<!--- highestId :5317: for Floccus bookmark sync browser extension -->
 
 <folder id="2">
   <title>ST y FT y VD</title>
@@ -6885,6 +6885,9 @@
     </bookmark>
     <bookmark href="https://www.youtube.com/watch?v=CAYPdvAshhU" id="5316">
       <title>Limpiar Acentos en Power Query | El Método que Funciona Siempre - YouTube</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=WYdaDgCUXlw" id="5317">
+      <title>El único curso de tablas dinámicas que necesitas en 2026 (29 mins) - YouTube</title>
     </bookmark>
   </folder>
   <folder id="5255">
