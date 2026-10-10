@@ -6809,6 +6809,9 @@
   <bookmark href="https://claude.ai/login?returnTo=%2F%3F" id="2224">
     <title>Claude</title>
   </bookmark>
+  <bookmark href="https://chatgpt.com/" id="2220">
+    <title>ChatGPT</title>
+  </bookmark>
   <folder id="5206">
     <title>ImagenesIA</title>
     <bookmark href="https://www.iloveimg.com/es" id="5207">
@@ -10292,9 +10295,6 @@
       <title>Reemplacé n8n, Zapier y Make con una herramienta gratuita. - YouTube</title>
     </bookmark>
   </folder>
-  <bookmark href="https://chatgpt.com/" id="2220">
-    <title>ChatGPT</title>
-  </bookmark>
 </folder>
 <folder id="3271">
   <title>Cocina</title>
