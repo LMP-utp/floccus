@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :5324: for Floccus bookmark sync browser extension -->
+<!--- highestId :5325: for Floccus bookmark sync browser extension -->
 
 <folder id="2">
   <title>ST y FT y VD</title>
@@ -7011,6 +7011,9 @@
     </bookmark>
     <bookmark href="https://www.youtube.com/watch?v=7yFNDFsAOeo" id="5311">
       <title>Consigue tu VPS gratis con 2 CPU y 12 GB de RAM (Paso a paso completo) - YouTube</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/shorts/Z7MK_l86w2Q" id="5325">
+      <title>limpieza de datos con power query #dataanalytics #postgres #excel #bi #datascience #postgresql - YouTube</title>
     </bookmark>
   </folder>
   <folder id="2212">
