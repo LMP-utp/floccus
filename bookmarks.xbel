@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :5325: for Floccus bookmark sync browser extension -->
+<!--- highestId :5326: for Floccus bookmark sync browser extension -->
 
 <folder id="2">
   <title>ST y FT y VD</title>
@@ -3204,6 +3204,9 @@
     </bookmark>
     <bookmark href="https://vandal.elespanol.com/guias/guia-hogwarts-legacy-trucos-consejos-y-secretoshog/estatuas-de-demiguise" id="5323">
       <title>Hogwarts Legacy: TODAS las estatuas de demiguise y ubicación</title>
+    </bookmark>
+    <bookmark href="https://www-ign-com.translate.goog/wikis/hogwarts-legacy/The_Hippogriff_Marks_The_Spot?_x_tr_sl=en&amp;_x_tr_tl=es&amp;_x_tr_hl=es&amp;_x_tr_pto=tc&amp;_x_tr_hist=true" id="5326">
+      <title>El hipogrifo marca el lugar - Guía del Legado de Hogwarts - IGN</title>
     </bookmark>
   </folder>
   <folder id="5203">
