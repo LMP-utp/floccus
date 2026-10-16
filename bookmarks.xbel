@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :5327: for Floccus bookmark sync browser extension -->
+<!--- highestId :5328: for Floccus bookmark sync browser extension -->
 
 <folder id="2">
   <title>ST y FT y VD</title>
@@ -6127,6 +6127,9 @@
   </bookmark>
   <bookmark href="https://www.twitch.tv/jahir_gw2" id="603">
     <title>jahir_gw2 - Twitch</title>
+  </bookmark>
+  <bookmark href="https://mudfish.net/" id="5328">
+    <title>Mudfish | Explorar productos</title>
   </bookmark>
 </folder>
 <folder id="6">
