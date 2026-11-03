@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :5328: for Floccus bookmark sync browser extension -->
+<!--- highestId :5329: for Floccus bookmark sync browser extension -->
 
 <folder id="2">
   <title>ST y FT y VD</title>
@@ -7017,6 +7017,9 @@
     </bookmark>
     <bookmark href="https://learn.microsoft.com/en-us/power-bi/transform-model/desktop-add-custom-column" id="5327">
       <title>Add a custom column in Power BI Desktop - Power BI | Microsoft Learn</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=PSqBgS-efiY" id="5329">
+      <title>Cómo diseñar un panel de control en Power BI en 6 pasos - YouTube</title>
     </bookmark>
   </folder>
   <folder id="2212">
