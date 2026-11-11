@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :5335: for Floccus bookmark sync browser extension -->
+<!--- highestId :5336: for Floccus bookmark sync browser extension -->
 
 <folder id="2">
   <title>ST y FT y VD</title>
@@ -11011,6 +11011,9 @@
   </bookmark>
   <bookmark href="https://es.aliexpress.com/item/1005010280762138.html" id="5248">
     <title>Localizador de cables FNIRSI LPM-10A, pantalla color 2.4, batería 1500mAh</title>
+  </bookmark>
+  <bookmark href="https://www.lenovo.com/pe/outlet/es/p/laptops/thinkpad/thinkpad-e/lenovo-thinkpad-e16-gen-3-16-inch-amd-laptop/21stx008r1" id="5336">
+    <title>ThinkPad E16 3ra generación (16 pulgadas AMD) | Laptop optimizada para IA para profesionales modernos | 21STX008R1 | Lenovo Perú</title>
   </bookmark>
 </folder>
 <folder id="3487">
