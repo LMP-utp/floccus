@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :5336: for Floccus bookmark sync browser extension -->
+<!--- highestId :5337: for Floccus bookmark sync browser extension -->
 
 <folder id="2">
   <title>ST y FT y VD</title>
@@ -6877,6 +6877,9 @@
   </bookmark>
   <bookmark href="https://www.youtube.com/watch?v=bc7QaDmLmoA" id="5333">
     <title>I Tested Uncensored AI... It Should Probably Be Illegal… - YouTube</title>
+  </bookmark>
+  <bookmark href="https://app.nuancelabs.ai/" id="5337">
+    <title>Nuance Labs</title>
   </bookmark>
 </folder>
 <folder id="2201">
