@@ -6824,6 +6824,9 @@
 </folder>
 <folder id="5197">
   <title>IA</title>
+  <bookmark href="https://chatgpt.com/" id="2220">
+    <title>ChatGPT</title>
+  </bookmark>
   <bookmark href="https://gemini.google.com/app?hl=es" id="2213">
     <title>Google Gemini</title>
   </bookmark>
@@ -10036,9 +10039,6 @@
   </bookmark>
   <bookmark href="https://www.acm.org/education/curricula-recommendations" id="5134">
     <title>Curricula Recommendations</title>
-  </bookmark>
-  <bookmark href="https://chatgpt.com/" id="2220">
-    <title>ChatGPT</title>
   </bookmark>
   <folder id="2210">
     <title>6to Ciclo</title>
