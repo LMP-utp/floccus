@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :5343: for Floccus bookmark sync browser extension -->
+<!--- highestId :5344: for Floccus bookmark sync browser extension -->
 
 <folder id="2">
   <title>ST y FT y VD</title>
@@ -6895,6 +6895,9 @@
   </bookmark>
   <bookmark href="https://www.youtube.com/watch?v=21RgOoFI5XI" id="5343">
     <title>IA Local, programación con agentes. Gratis, privado y en cualquier PC - YouTube</title>
+  </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=kuh7Q3p35ic" id="5344">
+    <title>El FIN de las suscripciones: Corre modelos TOP en tu PC (Gratis) con STRATA - YouTube</title>
   </bookmark>
 </folder>
 <folder id="2201">
